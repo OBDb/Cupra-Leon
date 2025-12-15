@@ -7,5 +7,8 @@ test_cases:
     CUPRA_CLIMATE_REFRIG_P: 6.4
   response: 7B00462260520
 - expected_values:
+    CUPRA_CLIMATE_REFRIG_P: 7.4
+  response: 7B00462260525
+- expected_values:
     CUPRA_CLIMATE_REFRIG_P: 7.6
   response: 7B00462260526
