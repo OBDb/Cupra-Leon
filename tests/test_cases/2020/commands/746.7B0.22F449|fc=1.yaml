@@ -1,5 +1,20 @@
 command_id: 746.7B0.22F449|fc=1
 test_cases:
 - expected_values:
+    CUPRA_APP_D: 0
+  response: 7B00462F44900
+- expected_values:
+    CUPRA_APP_D: 0.39216
+  response: 7B00462F44901
+- expected_values:
+    CUPRA_APP_D: 1.17647
+  response: 7B00462F44903
+- expected_values:
     CUPRA_APP_D: 1.96078
   response: 7B00462F44905
+- expected_values:
+    CUPRA_APP_D: 52.54902
+  response: 7B00462F44986
+- expected_values:
+    CUPRA_APP_D: 54.5098
+  response: 7B00462F4498B
