@@ -1,0 +1,17 @@
+command_id: 746.7B0.222603|fc=1
+test_cases:
+- expected_values:
+    CUPRA_CLIMATE_A_C_COMP_SPD: 0
+  response: 7B00462260300
+- expected_values:
+    CUPRA_CLIMATE_A_C_COMP_SPD: 1600
+  response: 7B00462260310
+- expected_values:
+    CUPRA_CLIMATE_A_C_COMP_SPD: 4600
+  response: 7B0046226032E
+- expected_values:
+    CUPRA_CLIMATE_A_C_COMP_SPD: 4800
+  response: 7B00462260330
+- expected_values:
+    CUPRA_CLIMATE_A_C_COMP_SPD: 6400
+  response: 7B00462260340

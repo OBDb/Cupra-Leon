@@ -10,5 +10,9 @@ test_cases:
   response: 7B005622612026C
 - expected_values:
     CUPRA_CLIMATE_T_AFTER_EVAP: 0.666
+    CUPRA_HVAC_EVAP_T: 65
+  response: 7B005622612028A
+- expected_values:
+    CUPRA_CLIMATE_T_AFTER_EVAP: 0.666
     CUPRA_HVAC_EVAP_T: 67
   response: 7B005622612029E
