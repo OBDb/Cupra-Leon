@@ -1,0 +1,11 @@
+command_id: 746.7B0.222609|fc=1
+test_cases:
+- expected_values:
+    CUPRA_AAT: 50
+  response: 7B00462260964
+- expected_values:
+    CUPRA_AAT: 51
+  response: 7B00462260966
+- expected_values:
+    CUPRA_AAT: 52
+  response: 7B00462260968

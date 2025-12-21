@@ -1,0 +1,58 @@
+command_id: 710.77A.222A53|fc=1
+test_cases:
+- expected_values:
+    CUPRA_DCDC_I: 0
+    CUPRA_DCDC_I_RSV: 0
+    CUPRA_DCDC_V_LOW: 11.9
+  response: |-
+    77A1008622A537701FF
+    77A2101FF5555555555
+- expected_values:
+    CUPRA_DCDC_I: 0
+    CUPRA_DCDC_I_RSV: 0
+    CUPRA_DCDC_V_LOW: 12
+  response: |-
+    77A1008622A537801FF
+    77A2101FF5555555555
+- expected_values:
+    CUPRA_DCDC_I: 0
+    CUPRA_DCDC_I_RSV: 0
+    CUPRA_DCDC_V_LOW: 12.1
+  response: |-
+    77A1008622A537901FF
+    77A2101FF5555555555
+- expected_values:
+    CUPRA_DCDC_I: 28
+    CUPRA_DCDC_I_RSV: 155
+    CUPRA_DCDC_V_LOW: 14.9
+  response: |-
+    77A1008622A5395021B
+    77A21029A5555555555
+- expected_values:
+    CUPRA_DCDC_I: 29
+    CUPRA_DCDC_I_RSV: 155
+    CUPRA_DCDC_V_LOW: 14.9
+  response: |-
+    77A1008622A5395021C
+    77A21029A5555555555
+- expected_values:
+    CUPRA_DCDC_I: 32
+    CUPRA_DCDC_I_RSV: 152
+    CUPRA_DCDC_V_LOW: 14.9
+  response: |-
+    77A1008622A5395021F
+    77A2102975555555555
+- expected_values:
+    CUPRA_DCDC_I: 35
+    CUPRA_DCDC_I_RSV: 148
+    CUPRA_DCDC_V_LOW: 14.9
+  response: |-
+    77A1008622A53950222
+    77A2102935555555555
+- expected_values:
+    CUPRA_DCDC_I: 38
+    CUPRA_DCDC_I_RSV: 144
+    CUPRA_DCDC_V_LOW: 14.9
+  response: |-
+    77A1008622A53950225
+    77A21028F5555555555
