@@ -14,6 +14,10 @@ test_cases:
   response: 77D056218080010
 - expected_values:
     CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 24
+  response: 77D056218080018
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
     CUPRA_HDC_INCLINE: 32
   response: 77D056218080020
 - expected_values:
