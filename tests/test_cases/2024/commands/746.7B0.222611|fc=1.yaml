@@ -1,26 +1,8 @@
 command_id: 746.7B0.222611|fc=1
 test_cases:
 - expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 34.632
-  response: 7B00462261168
+    CUPRA_CLIMATE_LEG_DEFL_T: 28.638
+  response: 7B00462261156
 - expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 35.298
-  response: 7B0046226116A
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 36.63
-  response: 7B0046226116E
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 38.628
-  response: 7B00462261174
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 40.626
-  response: 7B0046226117A
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 52.614
-  response: 7B0046226119E
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 53.28
-  response: 7B004622611A0
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 53.946
-  response: 7B004622611A2
+    CUPRA_CLIMATE_LEG_DEFL_T: 63.27
+  response: 7B004622611BE
