@@ -9,6 +9,6 @@ test_cases:
     CUPRA_HVAC_INTERIOR_T: 22.9
   response: 7B00562261300E5
 - expected_values:
-    CUPRA_CABIN_T: 32.5
-    CUPRA_HVAC_INTERIOR_T: 32.5
-  response: 7B0056226130145
+    CUPRA_CABIN_T: 29.9
+    CUPRA_HVAC_INTERIOR_T: 29.9
+  response: 7B005622613012B
