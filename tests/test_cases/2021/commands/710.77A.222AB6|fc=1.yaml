@@ -1,0 +1,12 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    CUPRA_RANGE: 431
+  response: |-
+    77A100A622AB601AF01
+    77A21AE000100AAAAAA
+- expected_values:
+    CUPRA_RANGE: 431
+  response: |-
+    77A100A622AB601AF01
+    77A21AE000106AAAAAA

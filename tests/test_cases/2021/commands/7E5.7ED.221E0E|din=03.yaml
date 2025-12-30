@@ -1,0 +1,10 @@
+command_id: 7E5.7ED.221E0E|din=03
+test_cases:
+- expected_values:
+    CUPRA_BMS_T_MAX: -94
+    CUPRA_BMS_T_MAX_CELL: 64
+  response: 7ED07621E0E06400007
+- expected_values:
+    CUPRA_BMS_T_MAX: -94
+    CUPRA_BMS_T_MAX_CELL: 96
+  response: 7ED07621E0E06600007
