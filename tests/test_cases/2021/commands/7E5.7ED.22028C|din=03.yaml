@@ -1,0 +1,10 @@
+command_id: 7E5.7ED.22028C|din=03
+test_cases:
+- expected_values:
+    CUPRA_BMS_SOC: 66
+    CUPRA_HVBAT_SOC_V2: 25.88235
+  response: 7ED0462028C42
+- expected_values:
+    CUPRA_BMS_SOC: 68
+    CUPRA_HVBAT_SOC_V2: 26.66667
+  response: 7ED0462028C44

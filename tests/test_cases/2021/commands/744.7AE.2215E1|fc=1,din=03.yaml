@@ -1,0 +1,11 @@
+command_id: 744.7AE.2215E1|fc=1,din=03
+test_cases:
+- expected_values:
+    CUPRA_CHRGR_PWR_LOSS: 80
+  response: 7AE046215E104
+- expected_values:
+    CUPRA_CHRGR_PWR_LOSS: 100
+  response: 7AE046215E105
+- expected_values:
+    CUPRA_CHRGR_PWR_LOSS: 120
+  response: 7AE046215E106

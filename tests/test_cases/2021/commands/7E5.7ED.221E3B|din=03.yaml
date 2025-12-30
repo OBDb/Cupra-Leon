@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E3B|din=03
+test_cases:
+- expected_values:
+    CUPRA_BMS_CELL_V_SUM: 139.4
+    CUPRA_HVBAT_VOLTS: 348.5
+  response: 7ED05621E3B0572
+- expected_values:
+    CUPRA_BMS_CELL_V_SUM: 139.7
+    CUPRA_HVBAT_VOLTS: 349.25
+  response: 7ED05621E3B0575
+- expected_values:
+    CUPRA_BMS_CELL_V_SUM: 139.9
+    CUPRA_HVBAT_VOLTS: 349.75
+  response: 7ED05621E3B0577

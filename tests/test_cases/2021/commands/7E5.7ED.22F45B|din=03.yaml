@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.22F45B|din=03
+test_cases:
+- expected_values:
+    CUPRA_BMS_SOC_HIRES: 26.27451
+  response: 7ED0462F45B43
+- expected_values:
+    CUPRA_BMS_SOC_HIRES: 27.05882
+  response: 7ED0462F45B45
+- expected_values:
+    CUPRA_BMS_SOC_HIRES: 27.45098
+  response: 7ED0462F45B46

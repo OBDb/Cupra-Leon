@@ -1,0 +1,5 @@
+command_id: 7E1.223841
+test_cases:
+- expected_values:
+    CUPRA_ODO_TCM_1: 907761
+  response: 7E907623841F1D90D00
