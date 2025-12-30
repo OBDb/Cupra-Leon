@@ -1,0 +1,14 @@
+command_id: 7E5.7ED.221E2D|din=03
+test_cases:
+- expected_values:
+    CUPRA_BMS_CELL_SOC_MIN: 10
+    CUPRA_BMS_CELL_SOC_MIN_IDX: 79
+  response: 7ED07621E2D0A4F0013
+- expected_values:
+    CUPRA_BMS_CELL_SOC_MIN: 10
+    CUPRA_BMS_CELL_SOC_MIN_IDX: 147
+  response: 7ED07621E2D0A930013
+- expected_values:
+    CUPRA_BMS_CELL_SOC_MIN: 10
+    CUPRA_BMS_CELL_SOC_MIN_IDX: 220
+  response: 7ED07621E2D0ADC0013
