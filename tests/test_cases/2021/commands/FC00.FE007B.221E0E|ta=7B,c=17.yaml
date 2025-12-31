@@ -1,0 +1,18 @@
+command_id: FC00.FE007B.221E0E|ta=7B,c=17
+test_cases:
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 9
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E02400001
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 10.5
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E02A00001
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 11
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E02C00001
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 11.5
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E02E00001

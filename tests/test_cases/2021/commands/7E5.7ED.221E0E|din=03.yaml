@@ -1,6 +1,38 @@
 command_id: 7E5.7ED.221E0E|din=03
 test_cases:
 - expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 32
+  response: 7ED07621E0E02200001
+- expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 64
+  response: 7ED07621E0E02400001
+- expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 160
+  response: 7ED07621E0E02A00007
+- expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 192
+  response: 7ED07621E0E02C00001
+- expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 224
+  response: 7ED07621E0E02E00001
+- expected_values:
+    CUPRA_BMS_T_MAX: -98
+    CUPRA_BMS_T_MAX_CELL: 224
+  response: 7ED07621E0E02E00008
+- expected_values:
+    CUPRA_BMS_T_MAX: -97
+    CUPRA_BMS_T_MAX_CELL: 0
+  response: 7ED07621E0E03000001
+- expected_values:
+    CUPRA_BMS_T_MAX: -97
+    CUPRA_BMS_T_MAX_CELL: 0
+  response: 7ED07621E0E03000007
+- expected_values:
     CUPRA_BMS_T_MAX: -94
     CUPRA_BMS_T_MAX_CELL: 64
   response: 7ED07621E0E06400007

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_CHRGR_EFFICIENCY: 97
   response: 7AE046215D6DC
+- expected_values:
+    CUPRA_CHRGR_EFFICIENCY: 100.4
+  response: 7AE046215D6FE
