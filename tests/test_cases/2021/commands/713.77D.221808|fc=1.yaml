@@ -2,5 +2,37 @@ command_id: 713.77D.221808|fc=1
 test_cases:
 - expected_values:
     CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 0
+  response: 77D056218080000
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 8
+  response: 77D056218080008
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
     CUPRA_HDC_INCLINE: 16
   response: 77D056218080010
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 24
+  response: 77D056218080018
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 32
+  response: 77D056218080020
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 40
+  response: 77D056218080028
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 56
+  response: 77D056218080038
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 64
+  response: 77D056218080040
+- expected_values:
+    CUPRA_HDC_ACTIVE: 0
+    CUPRA_HDC_INCLINE: 72
+  response: 77D056218080048

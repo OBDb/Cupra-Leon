@@ -4,8 +4,5 @@ test_cases:
     CUPRA_CLIMATE_LEG_DEFL_T: 40.626
   response: 7B0046226117A
 - expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 41.292
-  response: 7B0046226117C
-- expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 43.956
-  response: 7B00462261184
+    CUPRA_CLIMATE_LEG_DEFL_T: 63.27
+  response: 7B004622611BE

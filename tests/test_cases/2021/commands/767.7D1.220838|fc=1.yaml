@@ -4,3 +4,7 @@ test_cases:
     CUPRA_ECALL_SOC: 99
     CUPRA_ECALL_STATUS: NORMAL
   response: 7D1056208380263
+- expected_values:
+    CUPRA_ECALL_SOC: 100
+    CUPRA_ECALL_STATUS: NORMAL
+  response: 7D1056208380264

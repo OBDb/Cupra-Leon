@@ -1,0 +1,26 @@
+command_id: FC00.FE007B.22F40D|ta=7B,c=17
+test_cases:
+- expected_values:
+    CUPRA_VSS_V2: 25
+  response: 17FE007B0462F40D19
+- expected_values:
+    CUPRA_VSS_V2: 36
+  response: 17FE007B0462F40D24
+- expected_values:
+    CUPRA_VSS_V2: 41
+  response: 17FE007B0462F40D29
+- expected_values:
+    CUPRA_VSS_V2: 43
+  response: 17FE007B0462F40D2B
+- expected_values:
+    CUPRA_VSS_V2: 45
+  response: 17FE007B0462F40D2D
+- expected_values:
+    CUPRA_VSS_V2: 46
+  response: 17FE007B0462F40D2E
+- expected_values:
+    CUPRA_VSS_V2: 48
+  response: 17FE007B0462F40D30
+- expected_values:
+    CUPRA_VSS_V2: 49
+  response: 17FE007B0462F40D31
