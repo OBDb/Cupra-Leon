@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.222104
 test_cases:
 - expected_values:
+    CUPRA_ATF_T: -25
+  response: 7E9056221040F00
+- expected_values:
     CUPRA_ATF_T: 40
   response: '7E9056221045000'

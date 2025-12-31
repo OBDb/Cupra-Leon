@@ -4,5 +4,8 @@ test_cases:
     CUPRA_BMS_I_DCHG_LIM_DYN: 355
   response: 7ED05621E1C0163
 - expected_values:
-    CUPRA_BMS_I_DCHG_LIM_DYN: 359
-  response: 7ED05621E1C0167
+    CUPRA_BMS_I_DCHG_LIM_DYN: 1356
+  response: 7ED05621E1C054C
+- expected_values:
+    CUPRA_BMS_I_DCHG_LIM_DYN: 1418
+  response: 7ED05621E1C058A
