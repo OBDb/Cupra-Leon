@@ -4,7 +4,7 @@ test_cases:
     CUPRA_OBC_T_A: -54.8
   response: |-
     7AE1009621DDA000002
-    7AE21580226AAAAAAAA
+    7AE21510226AAAAAAAA
 - expected_values:
     CUPRA_OBC_T_A: -54.8
   response: |-

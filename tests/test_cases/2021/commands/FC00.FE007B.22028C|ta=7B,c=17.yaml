@@ -1,32 +1,8 @@
 command_id: FC00.FE007B.22028C|ta=7B,c=17
 test_cases:
 - expected_values:
-    CUPRA_SOC_DISP: 66.77391
-  response: 17FE007B0462028CA5
+    CUPRA_SOC_DISP: 24.2
+  response: 17FE007B0462028C45
 - expected_values:
-    CUPRA_SOC_DISP: 67.21739
-  response: 17FE007B0462028CA6
-- expected_values:
-    CUPRA_SOC_DISP: 67.66087
-  response: 17FE007B0462028CA7
-- expected_values:
-    CUPRA_SOC_DISP: 68.54783
-  response: 17FE007B0462028CA9
-- expected_values:
-    CUPRA_SOC_DISP: 68.9913
-  response: 17FE007B0462028CAA
-- expected_values:
-    CUPRA_SOC_DISP: 69.87826
-  response: 17FE007B0462028CAC
-- expected_values:
-    CUPRA_SOC_DISP: 70.32174
-  response: 17FE007B0462028CAD
-- expected_values:
-    CUPRA_SOC_DISP: 70.76522
-  response: 17FE007B0462028CAE
-- expected_values:
-    CUPRA_SOC_DISP: 72.98261
-  response: 17FE007B0462028CB3
-- expected_values:
-    CUPRA_SOC_DISP: 73.86957
-  response: 17FE007B0462028CB5
+    CUPRA_SOC_DISP: 93.38261
+  response: 17FE007B0462028CE1
