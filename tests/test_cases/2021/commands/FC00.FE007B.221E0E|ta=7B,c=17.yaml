@@ -5,14 +5,18 @@ test_cases:
     CUPRA_HVBAT_T_MAX_ID: 1
   response: 17FE007B07621E0E02400001
 - expected_values:
-    CUPRA_HVBAT_T_MAX: 10.5
-    CUPRA_HVBAT_T_MAX_ID: 1
-  response: 17FE007B07621E0E02A00001
-- expected_values:
-    CUPRA_HVBAT_T_MAX: 11
-    CUPRA_HVBAT_T_MAX_ID: 1
-  response: 17FE007B07621E0E02C00001
-- expected_values:
     CUPRA_HVBAT_T_MAX: 11.5
     CUPRA_HVBAT_T_MAX_ID: 1
   response: 17FE007B07621E0E02E00001
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 12
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E03000001
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 16.5
+    CUPRA_HVBAT_T_MAX_ID: 7
+  response: 17FE007B07621E0E04200007
+- expected_values:
+    CUPRA_HVBAT_T_MAX: 20
+    CUPRA_HVBAT_T_MAX_ID: 1
+  response: 17FE007B07621E0E05000001

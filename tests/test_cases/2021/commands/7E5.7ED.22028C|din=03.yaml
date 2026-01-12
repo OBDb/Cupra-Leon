@@ -6,5 +6,5 @@ test_cases:
   response: 7ED0462028C42
 - expected_values:
     CUPRA_BMS_SOC: 100
-    CUPRA_HVBAT_SOC_V2: 73.72549
-  response: 7ED0462028CBC
+    CUPRA_HVBAT_SOC_V2: 88.23529
+  response: 7ED0462028CE1

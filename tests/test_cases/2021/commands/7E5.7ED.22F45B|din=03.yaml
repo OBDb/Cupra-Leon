@@ -4,5 +4,5 @@ test_cases:
     CUPRA_BMS_SOC_HIRES: 26.27451
   response: 7ED0462F45B43
 - expected_values:
-    CUPRA_BMS_SOC_HIRES: 75.29412
-  response: 7ED0462F45BC0
+    CUPRA_BMS_SOC_HIRES: 89.80392
+  response: 7ED0462F45BE5

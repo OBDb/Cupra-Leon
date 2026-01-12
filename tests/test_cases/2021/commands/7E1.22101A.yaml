@@ -1,32 +1,11 @@
 command_id: 7E1.22101A
 test_cases:
 - expected_values:
+    CUPRA_ODO_TCM_2: 91910
+  response: 7E90762101A06670100
+- expected_values:
     CUPRA_ODO_TCM_2: 91300
   response: 7E90762101AA4640100
 - expected_values:
-    CUPRA_ODO_TCM_2: 91311
-  response: 7E90762101AAF640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91312
-  response: 7E90762101AB0640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91313
-  response: 7E90762101AB1640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91314
-  response: 7E90762101AB2640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91315
-  response: 7E90762101AB3640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91316
-  response: 7E90762101AB4640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91317
-  response: 7E90762101AB5640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91318
-  response: 7E90762101AB6640100
-- expected_values:
-    CUPRA_ODO_TCM_2: 91319
-  response: 7E90762101AB7640100
+    CUPRA_ODO_TCM_2: 91883
+  response: 7E90762101AEB660100

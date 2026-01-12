@@ -1,20 +1,8 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    CUPRA_AAT_CABIN: 0
-  response: 7B00462260A64
+    CUPRA_AAT_CABIN: -1.5
+  response: 7B00462260A61
 - expected_values:
-    CUPRA_AAT_CABIN: 1
-  response: 7B00462260A66
-- expected_values:
-    CUPRA_AAT_CABIN: 2
-  response: 7B00462260A68
-- expected_values:
-    CUPRA_AAT_CABIN: 3.5
-  response: 7B00462260A6B
-- expected_values:
-    CUPRA_AAT_CABIN: 4
-  response: 7B00462260A6C
-- expected_values:
-    CUPRA_AAT_CABIN: 7
-  response: 7B00462260A72
+    CUPRA_AAT_CABIN: 8
+  response: 7B00462260A74

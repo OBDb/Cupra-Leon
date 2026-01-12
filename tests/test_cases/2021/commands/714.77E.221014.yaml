@@ -1,42 +1,10 @@
 command_id: 714.77E.221014
 test_cases:
 - expected_values:
-    CUPRA_AAT_V3: 50
-    CUPRA_DASH_AMBIENT_AIR_T: 0
-  response: '77E0462101464'
+    CUPRA_AAT_V3: 48
+    CUPRA_DASH_AMBIENT_AIR_T: -1
+  response: '77E0462101462'
 - expected_values:
-    CUPRA_AAT_V3: 51
-    CUPRA_DASH_AMBIENT_AIR_T: 0.5
-  response: '77E0462101465'
-- expected_values:
-    CUPRA_AAT_V3: 52
-    CUPRA_DASH_AMBIENT_AIR_T: 1
-  response: '77E0462101466'
-- expected_values:
-    CUPRA_AAT_V3: 53
-    CUPRA_DASH_AMBIENT_AIR_T: 1.5
-  response: '77E0462101467'
-- expected_values:
-    CUPRA_AAT_V3: 54
-    CUPRA_DASH_AMBIENT_AIR_T: 2
-  response: '77E0462101468'
-- expected_values:
-    CUPRA_AAT_V3: 55
-    CUPRA_DASH_AMBIENT_AIR_T: 2.5
-  response: '77E0462101469'
-- expected_values:
-    CUPRA_AAT_V3: 58
-    CUPRA_DASH_AMBIENT_AIR_T: 4
-  response: 77E046210146C
-- expected_values:
-    CUPRA_AAT_V3: 60
-    CUPRA_DASH_AMBIENT_AIR_T: 5
-  response: 77E046210146E
-- expected_values:
-    CUPRA_AAT_V3: 61
-    CUPRA_DASH_AMBIENT_AIR_T: 5.5
-  response: 77E046210146F
-- expected_values:
-    CUPRA_AAT_V3: 64
-    CUPRA_DASH_AMBIENT_AIR_T: 7
-  response: '77E0462101472'
+    CUPRA_AAT_V3: 65
+    CUPRA_DASH_AMBIENT_AIR_T: 7.5
+  response: '77E0462101473'

@@ -1,8 +1,11 @@
 command_id: 7E5.7ED.221E1B|din=03
 test_cases:
 - expected_values:
-    CUPRA_BMS_I_CHG_LIM_DYN: 200
-  response: 7ED05621E1B00C8
+    CUPRA_BMS_I_CHG_LIM_DYN: 164
+  response: 7ED05621E1B00A4
 - expected_values:
-    CUPRA_BMS_I_CHG_LIM_DYN: 296
-  response: 7ED05621E1B0128
+    CUPRA_BMS_I_CHG_LIM_DYN: 252
+  response: 7ED05621E1B00FC
+- expected_values:
+    CUPRA_BMS_I_CHG_LIM_DYN: 516
+  response: 7ED05621E1B0204

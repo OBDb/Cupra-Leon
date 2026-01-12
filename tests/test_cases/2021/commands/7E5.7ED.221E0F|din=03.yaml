@@ -6,33 +6,17 @@ test_cases:
   response: 7ED07621E0F02000003
 - expected_values:
     CUPRA_BMS_T_MIN: -98
-    CUPRA_BMS_T_MIN_CELL: 32
-  response: 7ED07621E0F02200003
-- expected_values:
-    CUPRA_BMS_T_MIN: -98
-    CUPRA_BMS_T_MIN_CELL: 128
-  response: 7ED07621E0F02800002
-- expected_values:
-    CUPRA_BMS_T_MIN: -98
     CUPRA_BMS_T_MIN_CELL: 160
-  response: 7ED07621E0F02A00003
+  response: 7ED07621E0F02A00005
 - expected_values:
     CUPRA_BMS_T_MIN: -98
     CUPRA_BMS_T_MIN_CELL: 192
   response: 7ED07621E0F02C00001
 - expected_values:
     CUPRA_BMS_T_MIN: -98
-    CUPRA_BMS_T_MIN_CELL: 192
-  response: 7ED07621E0F02C00003
-- expected_values:
-    CUPRA_BMS_T_MIN: -98
     CUPRA_BMS_T_MIN_CELL: 224
   response: 7ED07621E0F02E00001
 - expected_values:
-    CUPRA_BMS_T_MIN: -98
-    CUPRA_BMS_T_MIN_CELL: 224
-  response: 7ED07621E0F02E00003
-- expected_values:
     CUPRA_BMS_T_MIN: -95
-    CUPRA_BMS_T_MIN_CELL: 128
-  response: 7ED07621E0F05800004
+    CUPRA_BMS_T_MIN_CELL: 0
+  response: 7ED07621E0F05000003

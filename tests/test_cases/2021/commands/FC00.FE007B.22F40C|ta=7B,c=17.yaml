@@ -4,23 +4,8 @@ test_cases:
     CUPRA_ELDRIVE_MOTOR_RPM: 0
   response: 17FE007B0562F40C0000
 - expected_values:
-    CUPRA_ELDRIVE_MOTOR_RPM: 1541
-  response: 17FE007B0562F40C1814
-- expected_values:
-    CUPRA_ELDRIVE_MOTOR_RPM: 1938
-  response: 17FE007B0562F40C1E48
-- expected_values:
     CUPRA_ELDRIVE_MOTOR_RPM: 1983.5
   response: 17FE007B0562F40C1EFE
-- expected_values:
-    CUPRA_ELDRIVE_MOTOR_RPM: 2111
-  response: 17FE007B0562F40C20FC
-- expected_values:
-    CUPRA_ELDRIVE_MOTOR_RPM: 2261.5
-  response: 17FE007B0562F40C2356
-- expected_values:
-    CUPRA_ELDRIVE_MOTOR_RPM: 2412
-  response: 17FE007B0562F40C25B0
 - expected_values:
     CUPRA_ELDRIVE_MOTOR_RPM: 2812
   response: 17FE007B0562F40C2BF0

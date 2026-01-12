@@ -4,5 +4,8 @@ test_cases:
     CUPRA_HVBAT_I_LIM_DSCH: 271.4
   response: 17FE007B05621E1C054D
 - expected_values:
-    CUPRA_HVBAT_I_LIM_DSCH: 283.6
-  response: 17FE007B05621E1C058A
+    CUPRA_HVBAT_I_LIM_DSCH: 306.2
+  response: 17FE007B05621E1C05FB
+- expected_values:
+    CUPRA_HVBAT_I_LIM_DSCH: 307.4
+  response: 17FE007B05621E1C0601

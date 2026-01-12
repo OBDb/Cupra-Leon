@@ -1,29 +1,14 @@
 command_id: FC00.FE007B.221E1B|ta=7B,c=17
 test_cases:
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 63.2
-  response: 17FE007B05621E1B013C
+    CUPRA_HVBAT_I_LIM_CHG: 32.8
+  response: 17FE007B05621E1B00A4
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 73.2
-  response: 17FE007B05621E1B016E
+    CUPRA_HVBAT_I_LIM_CHG: 50.8
+  response: 17FE007B05621E1B00FE
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 73.6
-  response: 17FE007B05621E1B0170
+    CUPRA_HVBAT_I_LIM_CHG: 52.6
+  response: 17FE007B05621E1B0107
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 73.8
-  response: 17FE007B05621E1B0171
-- expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 74.2
-  response: 17FE007B05621E1B0173
-- expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 74.4
-  response: 17FE007B05621E1B0174
-- expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 74.8
-  response: 17FE007B05621E1B0176
-- expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 75
-  response: 17FE007B05621E1B0177
-- expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 75.2
-  response: 17FE007B05621E1B0178
+    CUPRA_HVBAT_I_LIM_CHG: 104.4
+  response: 17FE007B05621E1B020A

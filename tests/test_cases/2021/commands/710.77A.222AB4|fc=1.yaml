@@ -1,6 +1,30 @@
 command_id: 710.77A.222AB4|fc=1
 test_cases:
 - expected_values:
+    CUPRA_HVBAT_CSMP_AVG_INT: 27
+    CUPRA_RANGE_EST_INT: 0
+  response: |-
+    77A100D622AB4005700
+    77A210000000000001B
+- expected_values:
+    CUPRA_HVBAT_CSMP_AVG_INT: 26
+    CUPRA_RANGE_EST_INT: 7
+  response: |-
+    77A100D622AB4005700
+    77A210700000000001A
+- expected_values:
+    CUPRA_HVBAT_CSMP_AVG_INT: 27
+    CUPRA_RANGE_EST_INT: 15
+  response: |-
+    77A100D622AB4006B00
+    77A210F00000000001B
+- expected_values:
+    CUPRA_HVBAT_CSMP_AVG_INT: 27
+    CUPRA_RANGE_EST_INT: 36
+  response: |-
+    77A100D622AB400E900
+    77A212400000000001B
+- expected_values:
     CUPRA_HVBAT_CSMP_AVG_INT: 26
     CUPRA_RANGE_EST_INT: 0
   response: |-
@@ -18,9 +42,3 @@ test_cases:
   response: |-
     77A100D622AB401A700
     77A210000000000001F
-- expected_values:
-    CUPRA_HVBAT_CSMP_AVG_INT: 26
-    CUPRA_RANGE_EST_INT: 32
-  response: |-
-    77A100D622AB401AD00
-    77A212000000000001A

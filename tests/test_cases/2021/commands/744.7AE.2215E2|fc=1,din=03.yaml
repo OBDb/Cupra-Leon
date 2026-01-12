@@ -4,20 +4,5 @@ test_cases:
     CUPRA_CHRGR_COOLANT_T: 10
   response: 7AE046215E232
 - expected_values:
-    CUPRA_CHRGR_COOLANT_T: 11
-  response: 7AE046215E233
-- expected_values:
-    CUPRA_CHRGR_COOLANT_T: 13
-  response: 7AE046215E235
-- expected_values:
-    CUPRA_CHRGR_COOLANT_T: 14
-  response: 7AE046215E236
-- expected_values:
-    CUPRA_CHRGR_COOLANT_T: 27
-  response: 7AE046215E243
-- expected_values:
-    CUPRA_CHRGR_COOLANT_T: 31
-  response: 7AE046215E247
-- expected_values:
     CUPRA_CHRGR_COOLANT_T: 32
   response: 7AE046215E248

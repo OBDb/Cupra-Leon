@@ -4,5 +4,5 @@ test_cases:
     CUPRA_CHRGR_SOC_DISP: 4
   response: 7AE04621DD008
 - expected_values:
-    CUPRA_CHRGR_SOC_DISP: 75
-  response: 7AE04621DD096
+    CUPRA_CHRGR_SOC_DISP: 93.5
+  response: 7AE04621DD0BB

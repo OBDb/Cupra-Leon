@@ -1,8 +1,11 @@
 command_id: FC00.FE007B.221E3B|ta=7B,c=17
 test_cases:
 - expected_values:
-    CUPRA_DC_BATTERY_V: 346
-  response: 17FE007B05621E3B0568
+    CUPRA_DC_BATTERY_V: 323.25
+  response: 17FE007B05621E3B050D
 - expected_values:
-    CUPRA_DC_BATTERY_V: 372
-  response: 17FE007B05621E3B05D0
+    CUPRA_DC_BATTERY_V: 381.75
+  response: 17FE007B05621E3B05F7
+- expected_values:
+    CUPRA_DC_BATTERY_V: 387
+  response: 17FE007B05621E3B060C
