@@ -4,8 +4,8 @@ test_cases:
     CUPRA_ODO_TCM_1: 379136
   response: 7E90762384100C90500
 - expected_values:
-    CUPRA_ODO_TCM_1: 378007
-  response: 7E90762384197C40500
+    CUPRA_ODO_TCM_1: 408625
+  response: 7E907623841313C0600
 - expected_values:
     CUPRA_ODO_TCM_1: 379135
   response: 7E907623841FFC80500
