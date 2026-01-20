@@ -1,8 +1,8 @@
 command_id: 746.7B0.22260C|fc=1
 test_cases:
 - expected_values:
-    CUPRA_CLIMATE_FR_L_DEFL_T: 27.972
-  response: 7B00462260C54
+    CUPRA_CLIMATE_FR_L_DEFL_T: 26.64
+  response: 7B00462260C50
 - expected_values:
-    CUPRA_CLIMATE_FR_L_DEFL_T: 52.614
-  response: 7B00462260C9E
+    CUPRA_CLIMATE_FR_L_DEFL_T: 63.27
+  response: 7B00462260CBE
