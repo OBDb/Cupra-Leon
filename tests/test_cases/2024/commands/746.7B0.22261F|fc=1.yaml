@@ -13,5 +13,14 @@ test_cases:
     CUPRA_RECIRC_FLAP_CMD_STEPS: 159
   response: 7B00562261F009F
 - expected_values:
+    CUPRA_RECIRC_FLAP_CMD_STEPS: 186
+  response: 7B00562261F00BA
+- expected_values:
     CUPRA_RECIRC_FLAP_CMD_STEPS: 187
   response: 7B00562261F00BB
+- expected_values:
+    CUPRA_RECIRC_FLAP_CMD_STEPS: 189
+  response: 7B00562261F00BD
+- expected_values:
+    CUPRA_RECIRC_FLAP_CMD_STEPS: 220
+  response: 7B00562261F00DC
