@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CUPRA_DASH_OIL_THERMAL_WEAR: 141
   response: 77E0562224B008D
+- expected_values:
+    CUPRA_DASH_OIL_THERMAL_WEAR: 142
+  response: 77E0562224B008E
