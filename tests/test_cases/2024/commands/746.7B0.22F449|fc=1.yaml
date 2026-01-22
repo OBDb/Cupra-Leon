@@ -4,5 +4,5 @@ test_cases:
     CUPRA_APP_D: 0
   response: 7B00462F44900
 - expected_values:
-    CUPRA_APP_D: 65.88235
-  response: 7B00462F449A8
+    CUPRA_APP_D: 67.45098
+  response: 7B00462F449AC
