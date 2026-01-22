@@ -4,5 +4,5 @@ test_cases:
     CUPRA_CLIMATE_FR_L_DEFL_T: 26.64
   response: 7B00462260C50
 - expected_values:
-    CUPRA_CLIMATE_FR_L_DEFL_T: 63.27
-  response: 7B00462260CBE
+    CUPRA_CLIMATE_FR_L_DEFL_T: 67.932
+  response: 7B00462260CCC
