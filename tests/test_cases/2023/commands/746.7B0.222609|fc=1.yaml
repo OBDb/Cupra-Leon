@@ -2,31 +2,41 @@ command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
     CUPRA_AAT: 56
+    CUPRA_AAT_FROMCABIN: 56
   response: 7B00462260970
 - expected_values:
     CUPRA_AAT: 57
+    CUPRA_AAT_FROMCABIN: 57
   response: 7B00462260972
 - expected_values:
     CUPRA_AAT: 58
+    CUPRA_AAT_FROMCABIN: 58
   response: 7B00462260974
 - expected_values:
     CUPRA_AAT: 59
+    CUPRA_AAT_FROMCABIN: 59
   response: 7B00462260976
 - expected_values:
     CUPRA_AAT: 60
+    CUPRA_AAT_FROMCABIN: 60
   response: 7B00462260978
 - expected_values:
     CUPRA_AAT: 61
+    CUPRA_AAT_FROMCABIN: 61
   response: 7B0046226097A
 - expected_values:
     CUPRA_AAT: 62
+    CUPRA_AAT_FROMCABIN: 62
   response: 7B0046226097C
 - expected_values:
     CUPRA_AAT: -63
+    CUPRA_AAT_FROMCABIN: -63
   response: 7B00462260982
 - expected_values:
     CUPRA_AAT: -62
+    CUPRA_AAT_FROMCABIN: -62
   response: 7B00462260984
 - expected_values:
     CUPRA_AAT: -61
+    CUPRA_AAT_FROMCABIN: -61
   response: 7B00462260986
