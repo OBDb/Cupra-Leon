@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.222110
+test_cases:
+- expected_values:
+    CUPRA_SPEC_TORQUE_TRANSINT: 6225
+  response: '7E9056221101851'
+- expected_values:
+    CUPRA_SPEC_TORQUE_TRANSINT: 22610
+  response: '7E9056221105852'
+- expected_values:
+    CUPRA_SPEC_TORQUE_TRANSINT: 57425
+  response: 7E905622110E051
