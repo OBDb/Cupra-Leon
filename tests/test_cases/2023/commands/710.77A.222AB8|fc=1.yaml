@@ -3,30 +3,15 @@ test_cases:
 - expected_values:
     CUPRA_HVBAT_KWH: 0
   response: |-
-    77A100B622AB8010800
+    77A100B622AB800FC00
     77A2100000000005555
 - expected_values:
     CUPRA_HVBAT_KWH: 0
   response: |-
-    77A100B622AB8010900
+    77A100B622AB800FF00
     77A2100000000005555
 - expected_values:
     CUPRA_HVBAT_KWH: 0
   response: |-
-    77A100B622AB8010B00
-    77A2100000000005555
-- expected_values:
-    CUPRA_HVBAT_KWH: 0
-  response: |-
-    77A100B622AB8010D00
-    77A2100000000005555
-- expected_values:
-    CUPRA_HVBAT_KWH: 0
-  response: |-
-    77A100B622AB8010E00
-    77A2100000000005555
-- expected_values:
-    CUPRA_HVBAT_KWH: 0
-  response: |-
-    77A100B622AB8011000
+    77A100B622AB8010000
     77A2100000000005555
