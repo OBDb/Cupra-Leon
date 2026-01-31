@@ -1,0 +1,26 @@
+command_id: 746.7B0.22263D|fc=1,din=03
+test_cases:
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 41.292
+    CUPRA_REAR_DEFLECTOR_T: 41.33333
+  response: 7B00462263D7C
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 41.625
+    CUPRA_REAR_DEFLECTOR_T: 41.66667
+  response: 7B00462263D7D
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 41.958
+    CUPRA_REAR_DEFLECTOR_T: 42
+  response: 7B00462263D7E
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 42.291
+    CUPRA_REAR_DEFLECTOR_T: 42.33333
+  response: 7B00462263D7F
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 44.622
+    CUPRA_REAR_DEFLECTOR_T: 44.66667
+  response: 7B00462263D86
+- expected_values:
+    CUPRA_PQ35_REAR_DEFL_T: 46.953
+    CUPRA_REAR_DEFLECTOR_T: 47
+  response: 7B00462263D8D

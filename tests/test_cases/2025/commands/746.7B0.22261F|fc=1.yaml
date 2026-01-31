@@ -1,0 +1,17 @@
+command_id: 746.7B0.22261F|fc=1
+test_cases:
+- expected_values:
+    CUPRA_MQB_RECIRC_FLAP_TRG: 725
+  response: 7B00562261F02D5
+- expected_values:
+    CUPRA_MQB_RECIRC_FLAP_TRG: 732
+  response: 7B00562261F02DC
+- expected_values:
+    CUPRA_MQB_RECIRC_FLAP_TRG: 745
+  response: 7B00562261F02E9
+- expected_values:
+    CUPRA_MQB_RECIRC_FLAP_TRG: 759
+  response: 7B00562261F02F7
+- expected_values:
+    CUPRA_MQB_RECIRC_FLAP_TRG: 766
+  response: 7B00562261F02FE

@@ -2,9 +2,9 @@ command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
     CUPRA_AAT: 42
-    CUPRA_AAT_FROMCABIN: 42
+    CUPRA_PQ35_OUT_T: 42
   response: 7B00462260954
 - expected_values:
     CUPRA_AAT: 61
-    CUPRA_AAT_FROMCABIN: 61
+    CUPRA_PQ35_OUT_T: 61
   response: 7B0046226097A
