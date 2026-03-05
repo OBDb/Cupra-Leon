@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210A1
+test_cases:
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G7: -3.33
+  response: 7E9056210A1B3FE

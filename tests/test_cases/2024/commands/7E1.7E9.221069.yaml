@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221069
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_PROT_ENGAGED_QTY: 81
+  response: '7E90762106951000000'
