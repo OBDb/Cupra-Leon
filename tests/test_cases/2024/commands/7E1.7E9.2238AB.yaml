@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2238AB
+test_cases:
+- expected_values:
+    CUPRA_MQB_DQ200_CLUTCH_2_ADAPT_CLUTCH_END_POS_CLOSED: 24.18
+  response: 7E9056238AB7209

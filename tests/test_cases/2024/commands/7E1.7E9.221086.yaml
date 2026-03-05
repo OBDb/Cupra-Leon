@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221086
+test_cases:
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -8.87
+  response: 7E90562108689FC
