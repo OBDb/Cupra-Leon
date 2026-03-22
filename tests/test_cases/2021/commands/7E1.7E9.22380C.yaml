@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22380C
+test_cases:
+- expected_values:
+    CUPRA_MQB_INPUT_SHAFT_1: 2346
+  response: 7E90562380C2A09
+- expected_values:
+    CUPRA_MQB_INPUT_SHAFT_1: 1974
+  response: 7E90562380CB607

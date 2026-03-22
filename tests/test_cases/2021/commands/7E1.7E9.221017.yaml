@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221017
+test_cases:
+- expected_values:
+    CUPRA_PQ35_ROAD_RESISTANCE: 1.019
+  response: '7E90462101783'
+- expected_values:
+    CUPRA_PQ35_ROAD_RESISTANCE: 1.268
+  response: '7E90462101784'

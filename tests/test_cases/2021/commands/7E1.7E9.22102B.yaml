@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22102B
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_T: 36
+  response: 7E90562102B2400
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_T: 42
+  response: 7E90562102B2A00

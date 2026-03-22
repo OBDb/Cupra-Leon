@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2210C9
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 8021
+  response: 7E9056210C9551F
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 8022
+  response: 7E9056210C9561F

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100E
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 381
+  response: 7E90562100EC41D
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 409
+  response: 7E90562100EF41F

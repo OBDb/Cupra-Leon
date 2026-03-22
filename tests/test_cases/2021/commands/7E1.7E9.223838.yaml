@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223838
+test_cases:
+- expected_values:
+    CUPRA_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_2: 77.55
+  response: 7E9056238380F06
+- expected_values:
+    CUPRA_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_2: 142.35
+  response: 7E9056238381F0B

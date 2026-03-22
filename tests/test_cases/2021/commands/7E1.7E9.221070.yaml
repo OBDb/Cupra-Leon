@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221070
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_ADAPT_BASIC_CHAR_POINT_2_POS: 32.98
+  response: 7E905621070E20C
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_ADAPT_BASIC_CHAR_POINT_2_POS: 33.1
+  response: 7E905621070EE0C

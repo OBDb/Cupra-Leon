@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100C
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE: 250
+  response: 7E90562100C8813
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE: 213
+  response: 7E90562100CA410
