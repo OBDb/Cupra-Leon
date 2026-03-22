@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_HVBAT_SOH: 85.725
   response: 7ED056251E039F5
+- expected_values:
+    CUPRA_HVBAT_SOH: 6524
+  response: 7ED056251E0FFFE

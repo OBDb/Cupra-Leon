@@ -9,6 +9,10 @@ test_cases:
     CUPRA_PQ35_ODO_3: 10773505
   response: 7E90762101AA4640100
 - expected_values:
+    CUPRA_ODO_TCM_2: 93618
+    CUPRA_PQ35_ODO_3: 11693313
+  response: 7E90762101AB26D0100
+- expected_values:
     CUPRA_ODO_TCM_2: 91883
     CUPRA_PQ35_ODO_3: 15427073
   response: 7E90762101AEB660100

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100A
+test_cases:
+- expected_values:
+    CUPRA_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 114.3
+  response: 7E90562100A7704
+- expected_values:
+    CUPRA_MQB_DQ250_VEHICLE_SPD_FROM_TRANSMISSION: 95.5
+  response: 7E90562100ABB03

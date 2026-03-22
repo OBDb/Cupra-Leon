@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100B
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -1279.3
+  response: 7E90562100B9C0E
+- expected_values:
+    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -50.8
+  response: 7E90562100BFC08
