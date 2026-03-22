@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.223824
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_2_P_ACTUAL: 44.01
+  response: '7E9056238243111'
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_2_P_ACTUAL: 43.19
+  response: 7E905623824DF10

@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22100F
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 102
+  response: 7E90562100FF807
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 115
+  response: 7E90562100FFC08

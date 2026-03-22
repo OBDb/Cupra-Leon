@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221191
+test_cases:
+- expected_values:
+    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 49.96
+  response: '7E9056211918413'
+- expected_values:
+    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 46.05
+  response: 7E905621191FD11

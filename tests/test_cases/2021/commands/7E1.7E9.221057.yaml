@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221057
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_0_POS: 5.96
+  response: '7E9056210575402'
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_ADAPT_BASIC_CHAR_POINT_0_POS: 6.01
+  response: '7E9056210575902'

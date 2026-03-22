@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.22380B
+test_cases:
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_OUTPUT_SPD_7E1_380B: 812
+  response: 7E90562380B2C03
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_OUTPUT_SPD_7E1_380B: 987
+  response: 7E90562380BDB03

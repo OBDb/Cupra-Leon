@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    CUPRA_PQ35_WORKING_HOURS: 2797.53546
+  response: 7E9076211101EA9031E
+- expected_values:
+    CUPRA_PQ35_WORKING_HOURS: 2797.49772
+  response: 7E907621110968E031E

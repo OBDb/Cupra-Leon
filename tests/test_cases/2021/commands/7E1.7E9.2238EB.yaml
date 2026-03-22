@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.2238EB
+test_cases:
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.19
+  response: 7E9056238EBEDFF
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.17
+  response: 7E9056238EBEFFF
