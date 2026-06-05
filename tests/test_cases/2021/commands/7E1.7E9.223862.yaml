@@ -4,8 +4,14 @@ test_cases:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0
   response: '7E9056238620000'
 - expected_values:
+    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0.01
+  response: '7E9056238620100'
+- expected_values:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0.02
   response: '7E9056238620200'
+- expected_values:
+    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0.03
+  response: '7E9056238620300'
 - expected_values:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_C: 0.05
   response: '7E9056238620500'
