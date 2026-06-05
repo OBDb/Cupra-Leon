@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_ENGINE_TORQUE: 213
   response: 7E90562100CA410
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE: 243
+  response: 7E90562100CFC12

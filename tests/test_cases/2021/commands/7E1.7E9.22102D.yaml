@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P_AD_VALUE: 2853
   response: 7E90562102D250B
+- expected_values:
+    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P_AD_VALUE: 2494
+  response: 7E90562102DBE09
