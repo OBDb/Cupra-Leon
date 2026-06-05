@@ -3,9 +3,9 @@ test_cases:
 - expected_values:
     CUPRA_DCDC_I: 0
     CUPRA_DCDC_I_RSV: 0
-    CUPRA_DCDC_V_LOW: 12.4
+    CUPRA_DCDC_V_LOW: 12.2
   response: |-
-    77A1008622A537C01FF
+    77A1008622A537A01FF
     77A2101FFAAAAAAAAAA
 - expected_values:
     CUPRA_DCDC_I: 16

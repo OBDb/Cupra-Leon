@@ -7,5 +7,11 @@ test_cases:
     CUPRA_MQB_TCM_ECU_T: 36
   response: 7E90562028D2400
 - expected_values:
+    CUPRA_MQB_TCM_ECU_T: 41
+  response: 7E90562028D2900
+- expected_values:
+    CUPRA_MQB_TCM_ECU_T: 43
+  response: 7E90562028D2B00
+- expected_values:
     CUPRA_MQB_TCM_ECU_T: 61
   response: 7E90562028D3D00

@@ -1,5 +1,11 @@
 command_id: 7E1.7E9.223835
 test_cases:
 - expected_values:
+    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 2
+  response: '7E9056238351400'
+- expected_values:
     CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 3
   response: 7E9056238351E00
+- expected_values:
+    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 608
+  response: 7E905623835C017
