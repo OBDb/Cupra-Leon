@@ -1,8 +1,17 @@
 command_id: 7E1.7E9.2238ED
 test_cases:
 - expected_values:
+    CUPRA_PQ35_CLUTCH_2_CMD_P: 0
+  response: 7E9056238ED0000
+- expected_values:
     CUPRA_PQ35_CLUTCH_2_CMD_P: 10.83
   response: 7E9056238ED3B04
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_CMD_P: 10.94
+  response: 7E9056238ED4604
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_CMD_P: 11.21
+  response: 7E9056238ED6104
 - expected_values:
     CUPRA_PQ35_CLUTCH_2_CMD_P: 12.34
   response: 7E9056238EDD204

@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.223839
 test_cases:
 - expected_values:
+    CUPRA_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 90.95
+  response: 7E9056238391B07
+- expected_values:
     CUPRA_MQB_TCM_CLUTCH_2_ACTUAL_TORQUE: 181.2
   response: 7E905623839280E
 - expected_values:

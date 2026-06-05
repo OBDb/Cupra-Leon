@@ -7,5 +7,11 @@ test_cases:
     CUPRA_MQB_INPUT_SHAFT_1: 883
   response: 7E90562380C7303
 - expected_values:
+    CUPRA_MQB_INPUT_SHAFT_1: 1676
+  response: 7E90562380C8C06
+- expected_values:
     CUPRA_MQB_INPUT_SHAFT_1: 1974
   response: 7E90562380CB607
+- expected_values:
+    CUPRA_MQB_INPUT_SHAFT_1: 1740
+  response: 7E90562380CCC06
