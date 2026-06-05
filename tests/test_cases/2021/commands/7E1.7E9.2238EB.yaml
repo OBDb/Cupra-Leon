@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.17
   response: 7E9056238EBEFFF
+- expected_values:
+    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.13
+  response: 7E9056238EBF3FF
