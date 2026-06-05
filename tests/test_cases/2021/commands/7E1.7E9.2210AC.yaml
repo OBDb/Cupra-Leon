@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G6: 7.35
   response: 7E9056210ACDF02
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G6: 7.48
+  response: 7E9056210ACEC02
