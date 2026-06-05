@@ -4,6 +4,9 @@ test_cases:
     CUPRA_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.19
   response: 7E9056210AEEDFF
 - expected_values:
+    CUPRA_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.16
+  response: 7E9056210AEF0FF
+- expected_values:
     CUPRA_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -0.15
   response: 7E9056210AEF1FF
 - expected_values:

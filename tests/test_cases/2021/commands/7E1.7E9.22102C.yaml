@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_CLUTCH_2_T: 60
   response: 7E90562102C3C00
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_T: 61
+  response: 7E90562102C3D00
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_T: 70
+  response: 7E90562102C4600

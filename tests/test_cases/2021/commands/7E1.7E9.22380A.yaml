@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.22380A
 test_cases:
 - expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_INPUT_SPD_7E1_380A: 0
+  response: 7E90562380A0000
+- expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_INPUT_SPD_7E1_380A: 2337
   response: 7E90562380A2109
 - expected_values:
