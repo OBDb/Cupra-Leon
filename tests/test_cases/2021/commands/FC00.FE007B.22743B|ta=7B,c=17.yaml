@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     CUPRA_CIRC_PUMP_FLOW: 30
   response: 17FE007B0462743B03
+- expected_values:
+    CUPRA_CIRC_PUMP_FLOW: 90
+  response: 17FE007B0462743B09

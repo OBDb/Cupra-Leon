@@ -9,3 +9,9 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 1500
   response: 7E90562382A983A
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 1093
+  response: 7E90562382AB22A
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_2_VALVE_I_CMD: 582.7
+  response: 7E90562382AC316

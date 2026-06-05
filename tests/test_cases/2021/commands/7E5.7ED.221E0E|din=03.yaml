@@ -17,6 +17,6 @@ test_cases:
     CUPRA_BMS_T_MAX_CELL: 0
   response: 7ED07621E0E03000001
 - expected_values:
-    CUPRA_BMS_T_MAX: -93
-    CUPRA_BMS_T_MAX_CELL: 0
-  response: 7ED07621E0E07000007
+    CUPRA_BMS_T_MAX: -92
+    CUPRA_BMS_T_MAX_CELL: 32
+  response: 7ED07621E0E08200002
