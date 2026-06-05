@@ -1,26 +1,11 @@
 command_id: 7E1.7E9.221191
 test_cases:
 - expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 46.92
-  response: '7E9056211915412'
-- expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 49.96
-  response: '7E9056211918413'
+    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 49.26
+  response: 7E9056211913E13
 - expected_values:
     CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 44.97
   response: '7E9056211919111'
-- expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 47.54
-  response: '7E9056211919212'
-- expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 45.06
-  response: 7E9056211919A11
-- expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 45.63
-  response: 7E905621191D311
-- expected_values:
-    CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 45.78
-  response: 7E905621191E211
 - expected_values:
     CUPRA_MQB_DQ200_P_SUPPLY_ACTUAL_P: 46.05
   response: 7E905621191FD11

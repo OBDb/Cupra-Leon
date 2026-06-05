@@ -4,6 +4,12 @@ test_cases:
     CUPRA_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 0
   response: 7E90562383D0000
 - expected_values:
+    CUPRA_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 566.4
+  response: 7E90562383D2016
+- expected_values:
+    CUPRA_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 747
+  response: 7E90562383D2E1D
+- expected_values:
     CUPRA_MQB_DQ250_CLUTCH_2_VALVE_I_SPECIFIED: 882.7
   response: 7E90562383D7B22
 - expected_values:

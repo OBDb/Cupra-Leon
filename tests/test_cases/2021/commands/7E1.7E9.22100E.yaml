@@ -4,6 +4,12 @@ test_cases:
     CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 0
   response: 7E90562100E0000
 - expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 384
+  response: 7E90562100E001E
+- expected_values:
+    CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 380
+  response: 7E90562100EB01D
+- expected_values:
     CUPRA_MQB_TCM_ENGINE_TORQUE_LIMITATION: 406
   response: 7E90562100EB81F
 - expected_values:
