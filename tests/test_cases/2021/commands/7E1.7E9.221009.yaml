@@ -4,8 +4,14 @@ test_cases:
     CUPRA_MQB_DQ250_SPD_OUTPUT: 264
   response: '7E9056210090801'
 - expected_values:
+    CUPRA_MQB_DQ250_SPD_OUTPUT: 293
+  response: '7E9056210092501'
+- expected_values:
     CUPRA_MQB_DQ250_SPD_OUTPUT: 812
   response: 7E9056210092C03
 - expected_values:
     CUPRA_MQB_DQ250_SPD_OUTPUT: 967
   response: 7E905621009C703
+- expected_values:
+    CUPRA_MQB_DQ250_SPD_OUTPUT: 721
+  response: 7E905621009D102
