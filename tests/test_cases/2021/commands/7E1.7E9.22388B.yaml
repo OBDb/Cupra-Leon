@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_DRIVE_CYCLES_COUNTER: 2168
   response: 7E90562388B7808
+- expected_values:
+    CUPRA_MQB_TCM_DRIVE_CYCLES_COUNTER: 2169
+  response: 7E90562388B7908
