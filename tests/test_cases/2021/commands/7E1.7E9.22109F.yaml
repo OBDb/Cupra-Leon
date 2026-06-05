@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G5: 1.78
   response: 7E90562109FB200
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G5: 1.81
+  response: 7E90562109FB500

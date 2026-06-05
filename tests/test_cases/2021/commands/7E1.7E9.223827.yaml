@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.223827
 test_cases:
 - expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_1_VALVE_I_ACTUAL: 1501
+  response: 7E905623827A23A
+- expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_PART_1_VALVE_I_ACTUAL: 353
   response: 7E905623827CA0D
