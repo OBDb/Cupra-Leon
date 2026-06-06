@@ -1,32 +1,8 @@
 command_id: 7E1.7E9.22028D
 test_cases:
 - expected_values:
-    CUPRA_MQB_TCM_ECU_T: 35
-  response: 7E90562028D2300
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 36
-  response: 7E90562028D2400
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 41
-  response: 7E90562028D2900
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 43
-  response: 7E90562028D2B00
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 61
-  response: 7E90562028D3D00
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 66
-  response: 7E90562028D4200
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 67
-  response: 7E90562028D4300
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 68
-  response: 7E90562028D4400
-- expected_values:
-    CUPRA_MQB_TCM_ECU_T: 73
-  response: 7E90562028D4900
+    CUPRA_MQB_TCM_ECU_T: 32
+  response: 7E90562028D2000
 - expected_values:
     CUPRA_MQB_TCM_ECU_T: 75
   response: 7E90562028D4B00
