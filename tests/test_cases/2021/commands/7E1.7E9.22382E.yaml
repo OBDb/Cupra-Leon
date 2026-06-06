@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 38
   response: 7E90562382EF802
+- expected_values:
+    CUPRA_MQB_DQ250_SPECIFIED_TORQUE_CLUTCH_1: 166
+  response: 7E90562382EF80C
