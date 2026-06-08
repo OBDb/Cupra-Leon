@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CUPRA_CHRGR_PWR_LOSS: 120
   response: 7AE046215E106
+- expected_values:
+    CUPRA_CHRGR_PWR_LOSS: 140
+  response: 7AE046215E107

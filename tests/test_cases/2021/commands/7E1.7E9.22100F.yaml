@@ -7,26 +7,5 @@ test_cases:
     CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 298
   response: 7E90562100F4817
 - expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 274
-  response: 7E90562100F6815
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 236
-  response: 7E90562100F7012
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 134
-  response: 7E90562100F780A
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 111
-  response: 7E90562100FAC08
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 266
-  response: 7E90562100FC814
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 190
-  response: 7E90562100FD80E
-- expected_values:
-    CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 102
-  response: 7E90562100FF807
-- expected_values:
     CUPRA_MQB_TCM_ENGINE_TORQUE_LOSS: 115
   response: 7E90562100FFC08

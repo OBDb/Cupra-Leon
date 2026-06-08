@@ -26,4 +26,7 @@ test_cases:
   response: 7E90562386AFAFC
 - expected_values:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_D: 0
+  response: 7E90562386AFEFF
+- expected_values:
+    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_D: 0
   response: 7E90562386AFFFF
