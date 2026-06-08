@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_PART_2_P_ACTUAL: 43.19
   response: 7E905623824DF10
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_2_P_ACTUAL: 12.5
+  response: 7E905623824E204
