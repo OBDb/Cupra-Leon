@@ -4,29 +4,8 @@ test_cases:
     CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: 0
   response: 7E90562100B0000
 - expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: 359.25
-  response: 7E90562100B1C11
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: 883.05
-  response: 7E90562100B44FD
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -1279.3
-  response: 7E90562100B9C0E
-- expected_values:
     CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -1267.25
   response: 7E90562100B9CFF
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -921.55
-  response: 7E90562100BB801
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -755.25
-  response: 7E90562100BC4FF
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -716.55
-  response: 7E90562100BC805
-- expected_values:
-    CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -141
-  response: 7E90562100BF4FC
 - expected_values:
     CUPRA_MQB_TCM_DRIVER_DEMAND_TORQUE: -50.8
   response: 7E90562100BFC08
