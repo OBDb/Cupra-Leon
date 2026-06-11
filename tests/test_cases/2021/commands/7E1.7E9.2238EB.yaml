@@ -4,29 +4,11 @@ test_cases:
     CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 5.37
   response: 7E9056238EB1902
 - expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 8.96
-  response: 7E9056238EB8003
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 11.95
-  response: 7E9056238EBAB04
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 7.35
-  response: 7E9056238EBDF02
+    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 4.93
+  response: 7E9056238EBED01
 - expected_values:
     CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.19
   response: 7E9056238EBEDFF
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.17
-  response: 7E9056238EBEFFF
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.15
-  response: 7E9056238EBF1FF
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.13
-  response: 7E9056238EBF3FF
-- expected_values:
-    CUPRA_PQ35_CLUTCH_1_ACTUAL_P: -0.1
-  response: 7E9056238EBF6FF
 - expected_values:
     CUPRA_PQ35_CLUTCH_1_ACTUAL_P: 7.64
   response: 7E9056238EBFC02

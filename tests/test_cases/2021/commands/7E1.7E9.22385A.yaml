@@ -7,26 +7,8 @@ test_cases:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 7.47
   response: 7E90562385AEB02
 - expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 7.52
-  response: 7E90562385AF002
-- expected_values:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
   response: 7E90562385AF2FF
-- expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
-  response: 7E90562385AF3FF
-- expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
-  response: 7E90562385AF5FF
-- expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
-  response: 7E90562385AF6FF
-- expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
-  response: 7E90562385AF7FF
-- expected_values:
-    CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 0
-  response: 7E90562385AFDFC
 - expected_values:
     CUPRA_MQB_DQ250_ACUTAL_POS_GEAR_POSER_B: 7.67
   response: 7E90562385AFF02

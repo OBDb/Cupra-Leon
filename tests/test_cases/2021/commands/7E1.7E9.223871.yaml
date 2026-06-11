@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_DQ250_SPECIFIED_IDLE_RPM: 150
   response: '7E9056238719600'
+- expected_values:
+    CUPRA_MQB_DQ250_SPECIFIED_IDLE_RPM: 410
+  response: 7E9056238719A01

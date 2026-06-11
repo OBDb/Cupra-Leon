@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_CLUTCH_2_CMD_P: 12.69
   response: 7E9056238EDF504
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_CMD_P: 2.51
+  response: 7E9056238EDFB00
