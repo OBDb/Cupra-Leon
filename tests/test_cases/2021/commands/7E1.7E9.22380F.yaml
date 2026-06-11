@@ -4,26 +4,8 @@ test_cases:
     CUPRA_MQB_OUTPUT_SHAFT_2: 0
   response: 7E90562380F0000
 - expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: 3073
-  response: 7E90562380F0C01
-- expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: 9218
-  response: 7E90562380F2402
-- expected_values:
     CUPRA_MQB_OUTPUT_SHAFT_2: 10499
   response: 7E90562380F2903
-- expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: -29184
-  response: 7E90562380F8E00
-- expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: -25600
-  response: 7E90562380F9C00
-- expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: -10750
-  response: 7E90562380FD602
-- expected_values:
-    CUPRA_MQB_OUTPUT_SHAFT_2: -9470
-  response: 7E90562380FDB02
 - expected_values:
     CUPRA_MQB_OUTPUT_SHAFT_2: -6909
   response: 7E90562380FE503

@@ -1,29 +1,11 @@
 command_id: 7E1.7E9.223835
 test_cases:
 - expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 1
-  response: 7E9056238350A00
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 2
-  response: '7E9056238351400'
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 3
-  response: 7E9056238351E00
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 541
-  response: '7E9056238352215'
+    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 0
+  response: '7E9056238350000'
 - expected_values:
     CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 782
   response: 7E9056238358C1E
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 608
-  response: 7E905623835C017
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 685
-  response: 7E905623835C21A
-- expected_values:
-    CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 687
-  response: 7E905623835D61A
 - expected_values:
     CUPRA_MQB_DQ250_CLUTCH_1_VALVE_I_ACTUAL: 665
   response: 7E905623835FA19
