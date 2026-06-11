@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 1.5
   response: '7E9056238209600'
+- expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_1_P_CMD: 20
+  response: 7E905623820D007
