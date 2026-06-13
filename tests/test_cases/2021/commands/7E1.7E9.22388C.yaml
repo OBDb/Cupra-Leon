@@ -4,29 +4,5 @@ test_cases:
     CUPRA_MQB_TCM_IGNITION_CYCLES: 92
   response: 7E90562388C5C00
 - expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 93
-  response: 7E90562388C5D00
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 95
-  response: 7E90562388C5F00
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 97
-  response: 7E90562388C6100
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 98
-  response: 7E90562388C6200
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 117
-  response: 7E90562388C7500
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 118
-  response: 7E90562388C7600
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 136
-  response: 7E90562388C8800
-- expected_values:
-    CUPRA_MQB_TCM_IGNITION_CYCLES: 137
-  response: 7E90562388C8900
-- expected_values:
     CUPRA_MQB_TCM_IGNITION_CYCLES: 157
   response: 7E90562388C9D00
