@@ -20,4 +20,7 @@ test_cases:
   response: 77A07622AB200B80600
 - expected_values:
     CUPRA_HVBAT_CAP: 327400
+  response: 77A07622AB219940600
+- expected_values:
+    CUPRA_HVBAT_CAP: 327400
   response: 77A07622AB219940601
