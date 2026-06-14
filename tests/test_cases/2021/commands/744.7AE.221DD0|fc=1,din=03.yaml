@@ -1,8 +1,8 @@
 command_id: 744.7AE.221DD0|fc=1,din=03
 test_cases:
 - expected_values:
-    CUPRA_CHRGR_SOC_DISP: 4
-  response: 7AE04621DD008
+    CUPRA_CHRGR_SOC_DISP: 1.5
+  response: 7AE04621DD003
 - expected_values:
     CUPRA_CHRGR_SOC_DISP: 99.5
   response: 7AE04621DD0C7
