@@ -7,6 +7,9 @@ test_cases:
     CUPRA_MQB_TCM_BRAKE_P: 7.8
   response: 7E9056238030C03
 - expected_values:
+    CUPRA_MQB_TCM_BRAKE_P: 0.6
+  response: 7E9056238033C00
+- expected_values:
     CUPRA_MQB_TCM_BRAKE_P: 0.9
   response: 7E9056238035A00
 - expected_values:
