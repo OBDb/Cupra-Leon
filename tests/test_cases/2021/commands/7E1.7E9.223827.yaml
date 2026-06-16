@@ -4,6 +4,9 @@ test_cases:
     CUPRA_MQB_TCM_TRANSMISSION_PART_1_VALVE_I_ACTUAL: 77
   response: '7E9056238270203'
 - expected_values:
+    CUPRA_MQB_TCM_TRANSMISSION_PART_1_VALVE_I_ACTUAL: 1
+  response: 7E9056238270A00
+- expected_values:
     CUPRA_MQB_TCM_TRANSMISSION_PART_1_VALVE_I_ACTUAL: 1106
   response: 7E905623827342B
 - expected_values:
