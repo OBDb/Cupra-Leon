@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_CLUTCH_2_PROT_ENGAGED_QTY: 23
   response: 7E90762107E17000000
+- expected_values:
+    CUPRA_PQ35_CLUTCH_2_PROT_ENGAGED_QTY: 24
+  response: 7E90762107E18000000
