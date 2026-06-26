@@ -1,6 +1,27 @@
 command_id: 710.77A.222A53|fc=1
 test_cases:
 - expected_values:
+    CUPRA_DCDC_I: 35
+    CUPRA_DCDC_I_RSV: 245
+    CUPRA_DCDC_V_LOW: 14.3
+  response: |-
+    77A100A622A538F0222
+    77A2102F40200AAAAAA
+- expected_values:
+    CUPRA_DCDC_I: 36
+    CUPRA_DCDC_I_RSV: 244
+    CUPRA_DCDC_V_LOW: 14.3
+  response: |-
+    77A100A622A538F0223
+    77A2102F30200AAAAAA
+- expected_values:
+    CUPRA_DCDC_I: 39
+    CUPRA_DCDC_I_RSV: 242
+    CUPRA_DCDC_V_LOW: 14.3
+  response: |-
+    77A100A622A538F0226
+    77A2102F10200AAAAAA
+- expected_values:
     CUPRA_DCDC_I: 25
     CUPRA_DCDC_I_RSV: 255
     CUPRA_DCDC_V_LOW: 15.1
