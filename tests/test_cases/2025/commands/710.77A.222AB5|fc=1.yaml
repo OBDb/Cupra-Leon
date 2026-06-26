@@ -5,3 +5,8 @@ test_cases:
   response: |-
     77A100D622AB500B200
     77A217B003707FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 29
+  response: |-
+    77A100D622AB5016E01
+    77A2151001D07FF0000
