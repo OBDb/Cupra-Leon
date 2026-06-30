@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     CUPRA_AAT_CABIN: 31.5
   response: 7B00462260AA3
+- expected_values:
+    CUPRA_AAT_CABIN: 33
+  response: 7B00462260AA6
+- expected_values:
+    CUPRA_AAT_CABIN: 33.5
+  response: 7B00462260AA7

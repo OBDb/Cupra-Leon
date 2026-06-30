@@ -6,3 +6,27 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_AC_COMP_SPD: 1200
   response: 7B0046226030C
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 1300
+  response: 7B0046226030D
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 1400
+  response: 7B0046226030E
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 1500
+  response: 7B0046226030F
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 1600
+  response: 7B00462260310
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 1700
+  response: 7B00462260311
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 2200
+  response: 7B00462260316
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 2400
+  response: 7B00462260318
+- expected_values:
+    CUPRA_PQ35_AC_COMP_SPD: 2500
+  response: 7B00462260319
