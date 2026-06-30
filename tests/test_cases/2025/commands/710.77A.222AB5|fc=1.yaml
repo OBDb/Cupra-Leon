@@ -6,6 +6,36 @@ test_cases:
     77A100D622AB500B200
     77A217B003707FF0000
 - expected_values:
+    CUPRA_RANGE_EST_CAN: 19
+  response: |-
+    77A100D622AB5011401
+    77A2101001307FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 20
+  response: |-
+    77A100D622AB5011501
+    77A2101001407FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 21
+  response: |-
+    77A100D622AB5011601
+    77A2101001507FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 20
+  response: |-
+    77A100D622AB5011701
+    77A2103001407FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 20
+  response: |-
+    77A100D622AB5011901
+    77A2105001407FF0000
+- expected_values:
+    CUPRA_RANGE_EST_CAN: 21
+  response: |-
+    77A100D622AB5011A01
+    77A2105001507FF0000
+- expected_values:
     CUPRA_RANGE_EST_CAN: 29
   response: |-
     77A100D622AB5016E01
