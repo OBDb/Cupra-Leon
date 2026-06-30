@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_DRIVING_STRATEGY_MOUNTAIN_FACTOR: 0
   response: '7E90462101800'
+- expected_values:
+    CUPRA_PQ35_DRIVING_STRATEGY_MOUNTAIN_FACTOR: 3.92157
+  response: 7E9046210180A
