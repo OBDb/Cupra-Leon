@@ -6,16 +6,16 @@ test_cases:
   response: 7ED07621E0F02000003
 - expected_values:
     CUPRA_BMS_T_MIN: -98
-    CUPRA_BMS_T_MIN_CELL: 160
-  response: 7ED07621E0F02A00005
-- expected_values:
-    CUPRA_BMS_T_MIN: -98
     CUPRA_BMS_T_MIN_CELL: 192
   response: 7ED07621E0F02C00001
 - expected_values:
     CUPRA_BMS_T_MIN: -98
     CUPRA_BMS_T_MIN_CELL: 224
   response: 7ED07621E0F02E00001
+- expected_values:
+    CUPRA_BMS_T_MIN: -94
+    CUPRA_BMS_T_MIN_CELL: 64
+  response: 7ED07621E0F06400006
 - expected_values:
     CUPRA_BMS_T_MIN: -92
     CUPRA_BMS_T_MIN_CELL: 0
