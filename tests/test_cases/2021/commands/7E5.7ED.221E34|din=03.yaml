@@ -9,10 +9,6 @@ test_cases:
     CUPRA_BMS_CELL_V_MIN_IDX: 0
   response: 7ED07621E343AFE000C
 - expected_values:
-    CUPRA_BMS_CELL_V_MIN: 1.5106
-    CUPRA_BMS_CELL_V_MIN_IDX: 0
-  response: 7ED07621E343B020013
-- expected_values:
     CUPRA_BMS_CELL_V_MIN: 1.5294
     CUPRA_BMS_CELL_V_MIN_IDX: 0
   response: 7ED07621E343BBE0055
@@ -20,6 +16,10 @@ test_cases:
     CUPRA_BMS_CELL_V_MIN: 1.5307
     CUPRA_BMS_CELL_V_MIN_IDX: 0
   response: 7ED07621E343BCB0001
+- expected_values:
+    CUPRA_BMS_CELL_V_MIN: 1.5872
+    CUPRA_BMS_CELL_V_MIN_IDX: 0
+  response: 7ED07621E343E00000C
 - expected_values:
     CUPRA_BMS_CELL_V_MIN: 1.6757
     CUPRA_BMS_CELL_V_MIN_IDX: 0
