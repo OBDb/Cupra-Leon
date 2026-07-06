@@ -18,3 +18,9 @@ test_cases:
 - expected_values:
     CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -7.47
   response: 7E90562108615FD
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -7.46
+  response: 7E90562108616FD
+- expected_values:
+    CUPRA_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G3: -7.44
+  response: 7E90562108618FD
