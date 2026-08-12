@@ -10,6 +10,9 @@ test_cases:
     CUPRA_MQB_TCM_EOP_ACTUAL_I: 3
   response: 7E90562381E1E00
 - expected_values:
+    CUPRA_MQB_TCM_EOP_ACTUAL_I: 317
+  response: 7E90562381E620C
+- expected_values:
     CUPRA_MQB_TCM_EOP_ACTUAL_I: 601
   response: 7E90562381E7A17
 - expected_values:

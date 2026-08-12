@@ -4,6 +4,9 @@ test_cases:
     CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 0
   response: '7E9056210100000'
 - expected_values:
+    CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 102.45
+  response: '7E9056210100801'
+- expected_values:
     CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 473.6
   response: '7E9056210102500'
 - expected_values:
@@ -12,3 +15,12 @@ test_cases:
 - expected_values:
     CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 704
   response: '7E9056210103700'
+- expected_values:
+    CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 1011.2
+  response: 7E9056210104F00
+- expected_values:
+    CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 1331.3
+  response: '7E9056210106802'
+- expected_values:
+    CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: -716.8
+  response: 7E905621010C800

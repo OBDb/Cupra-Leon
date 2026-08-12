@@ -11,4 +11,4 @@ test_cases:
   response: 7ED07621E3D00024A01
 - expected_values:
     CUPRA_HVBAT_CURRENT: -200
-  response: 7ED07621E3D00026257
+  response: 7ED07621E3D00027162
