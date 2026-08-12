@@ -6,6 +6,11 @@ test_cases:
     77A100B622AB8000000
     77A210000000000AAAA
 - expected_values:
+    CUPRA_HVBAT_KWH: 7225
+  response: |-
+    77A100B622AB8001601
+    77A212100000000AAAA
+- expected_values:
     CUPRA_HVBAT_KWH: 1575
   response: |-
     77A100B622AB8003C00
@@ -18,13 +23,8 @@ test_cases:
 - expected_values:
     CUPRA_HVBAT_KWH: 6425
   response: |-
-    77A100B622AB8009801
+    77A100B622AB800EB01
     77A210100000000AAAA
-- expected_values:
-    CUPRA_HVBAT_KWH: 7925
-  response: |-
-    77A100B622AB800DC01
-    77A213D00000000AAAA
 - expected_values:
     CUPRA_HVBAT_KWH: 0
   response: |-

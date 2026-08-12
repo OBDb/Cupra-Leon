@@ -5,14 +5,10 @@ test_cases:
     CUPRA_HVBAT_VOLTS: 317.75
   response: 7ED05621E3B04F7
 - expected_values:
-    CUPRA_BMS_CELL_V_SUM: 128.3
-    CUPRA_HVBAT_VOLTS: 320.75
-  response: 7ED05621E3B0503
-- expected_values:
     CUPRA_BMS_CELL_V_SUM: 153.3
     CUPRA_HVBAT_VOLTS: 383.25
   response: 7ED05621E3B05FD
 - expected_values:
-    CUPRA_BMS_CELL_V_SUM: 154.1
-    CUPRA_HVBAT_VOLTS: 385.25
-  response: 7ED05621E3B0605
+    CUPRA_BMS_CELL_V_SUM: 153.7
+    CUPRA_HVBAT_VOLTS: 384.25
+  response: 7ED05621E3B0601

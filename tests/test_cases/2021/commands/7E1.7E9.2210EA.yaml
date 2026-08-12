@@ -1,6 +1,9 @@
 command_id: 7E1.7E9.2210EA
 test_cases:
 - expected_values:
+    CUPRA_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 3335
+  response: 7E9056210EA070D
+- expected_values:
     CUPRA_PQ35_CLUTCH_2_SUCCESSFUL_ADAPTS_COUNTER: 3147
   response: 7E9056210EA4B0C
 - expected_values:

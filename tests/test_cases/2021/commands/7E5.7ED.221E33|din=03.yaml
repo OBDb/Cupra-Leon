@@ -5,9 +5,9 @@ test_cases:
     CUPRA_BMS_CELL_V_MAX_IDX: 0
   response: 7ED07621E3334F6000A
 - expected_values:
-    CUPRA_BMS_CELL_V_MAX: 1.4496
+    CUPRA_BMS_CELL_V_MAX: 1.4713
     CUPRA_BMS_CELL_V_MAX_IDX: 0
-  response: 7ED07621E3338A0005F
+  response: 7ED07621E3339790060
 - expected_values:
     CUPRA_BMS_CELL_V_MAX: 1.4848
     CUPRA_BMS_CELL_V_MAX_IDX: 0

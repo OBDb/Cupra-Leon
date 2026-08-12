@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22388B
 test_cases:
 - expected_values:
-    CUPRA_MQB_TCM_DRIVE_CYCLES_COUNTER: 1576
-  response: 7E90562388B2806
+    CUPRA_MQB_TCM_DRIVE_CYCLES_COUNTER: 34
+  response: 7E90562388B2200
 - expected_values:
     CUPRA_MQB_TCM_DRIVE_CYCLES_COUNTER: 2167
   response: 7E90562388B7708
