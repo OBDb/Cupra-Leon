@@ -1,0 +1,37 @@
+command_id: 714.77E.221014|din=03
+test_cases:
+- expected_values:
+    CUPRA_AAT_V3: 84
+    CUPRA_DASH_AMBIENT_AIR_T: 17
+    CUPRA_PQ35_AMB_T: 17
+  response: '77E0462101486'
+- expected_values:
+    CUPRA_AAT_V3: 86
+    CUPRA_DASH_AMBIENT_AIR_T: 18
+    CUPRA_PQ35_AMB_T: 18
+  response: '77E0462101488'
+- expected_values:
+    CUPRA_AAT_V3: 87
+    CUPRA_DASH_AMBIENT_AIR_T: 18.5
+    CUPRA_PQ35_AMB_T: 18.5
+  response: '77E0462101489'
+- expected_values:
+    CUPRA_AAT_V3: 89
+    CUPRA_DASH_AMBIENT_AIR_T: 19.5
+    CUPRA_PQ35_AMB_T: 19.5
+  response: 77E046210148B
+- expected_values:
+    CUPRA_AAT_V3: 91
+    CUPRA_DASH_AMBIENT_AIR_T: 20.5
+    CUPRA_PQ35_AMB_T: 20.5
+  response: 77E046210148D
+- expected_values:
+    CUPRA_AAT_V3: 92
+    CUPRA_DASH_AMBIENT_AIR_T: 21
+    CUPRA_PQ35_AMB_T: 21
+  response: 77E046210148E
+- expected_values:
+    CUPRA_AAT_V3: 93
+    CUPRA_DASH_AMBIENT_AIR_T: 21.5
+    CUPRA_PQ35_AMB_T: 21.5
+  response: 77E046210148F
