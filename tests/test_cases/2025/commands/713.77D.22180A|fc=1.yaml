@@ -3,4 +3,8 @@ test_cases:
 - expected_values:
     CUPRA_MQB_HAL_CLUTCH_BLOCK: 0
     CUPRA_MQB_HAL_CLUTCH_OPEN: 0
+  response: '77D 06 62 18 0A 10 00 00 AA '
+- expected_values:
+    CUPRA_MQB_HAL_CLUTCH_BLOCK: 0
+    CUPRA_MQB_HAL_CLUTCH_OPEN: 0
   response: 77D0662180A100000
