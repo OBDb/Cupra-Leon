@@ -91,7 +91,9 @@ supported_commands_by_ecu:
   - 0151:FUEL_TYP
   - 0153:EVAP_VPA
   - 0154:EVAP_VP_WIDE
+  - 0155:STSO2FT1
   - 0156:LGSO2FT1
+  - 015C:EOT
   - 015E:FUEL_RATE
   - 0162:TQ_ACT
   - DB33.0104:LOAD_PCT
