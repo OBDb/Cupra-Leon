@@ -10,6 +10,9 @@ test_cases:
     CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 166.4
   response: 7E9056210100D00
 - expected_values:
+    CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 307.2
+  response: '7E9056210101800'
+- expected_values:
     CUPRA_MQB_TCM_CONVERTER_LOSS_TORQUE: 473.6
   response: '7E9056210102500'
 - expected_values:
