@@ -48,3 +48,9 @@ test_cases:
   response: |-
     77A100D622AB4020000
     77A2114000000000018
+- expected_values:
+    CUPRA_HVBAT_CSMP_AVG_INT: 15
+    CUPRA_RANGE_EST_INT: 45
+  response: |-
+    77A100D622AB4023300
+    77A212D00000000000F

@@ -35,3 +35,8 @@ test_cases:
     CUPRA_DASH_AMBIENT_AIR_T: 17
     CUPRA_PQ35_AMB_T: 17
   response: '77E0462101486'
+- expected_values:
+    CUPRA_AAT_V3: 110
+    CUPRA_DASH_AMBIENT_AIR_T: 30
+    CUPRA_PQ35_AMB_T: 30
+  response: 77E04621014A0
