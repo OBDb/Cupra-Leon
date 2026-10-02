@@ -2,13 +2,17 @@ command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
     CUPRA_HVBAT_CURRENT: -200
+    CUPRA_HVBAT_I: 135799
   response: 7ED07621E3D00021277
 - expected_values:
     CUPRA_HVBAT_CURRENT: -200
+    CUPRA_HVBAT_I: 148991
   response: 7ED07621E3D000245FF
 - expected_values:
     CUPRA_HVBAT_CURRENT: -200
+    CUPRA_HVBAT_I: 150017
   response: 7ED07621E3D00024A01
 - expected_values:
     CUPRA_HVBAT_CURRENT: -200
+    CUPRA_HVBAT_I: 160098
   response: 7ED07621E3D00027162

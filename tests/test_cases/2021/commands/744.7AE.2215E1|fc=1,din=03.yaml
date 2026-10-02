@@ -1,17 +1,22 @@
 command_id: 744.7AE.2215E1|fc=1,din=03
 test_cases:
 - expected_values:
+    CUPRA_CHG_PWR_LOSS: 0
     CUPRA_CHRGR_PWR_LOSS: 0
   response: 7AE046215E100
 - expected_values:
+    CUPRA_CHG_PWR_LOSS: 80
     CUPRA_CHRGR_PWR_LOSS: 80
   response: 7AE046215E104
 - expected_values:
+    CUPRA_CHG_PWR_LOSS: 100
     CUPRA_CHRGR_PWR_LOSS: 100
   response: 7AE046215E105
 - expected_values:
+    CUPRA_CHG_PWR_LOSS: 120
     CUPRA_CHRGR_PWR_LOSS: 120
   response: 7AE046215E106
 - expected_values:
+    CUPRA_CHG_PWR_LOSS: 140
     CUPRA_CHRGR_PWR_LOSS: 140
   response: 7AE046215E107

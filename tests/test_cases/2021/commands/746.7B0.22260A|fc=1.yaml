@@ -2,7 +2,9 @@ command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
     CUPRA_AAT_CABIN: -1.5
+    CUPRA_OUTSIDE_T_SYSTEM: 48.5
   response: 7B00462260A61
 - expected_values:
     CUPRA_AAT_CABIN: 40
+    CUPRA_OUTSIDE_T_SYSTEM: -38
   response: 7B00462260AB4

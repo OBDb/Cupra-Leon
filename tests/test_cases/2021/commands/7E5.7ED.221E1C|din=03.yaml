@@ -2,10 +2,13 @@ command_id: 7E5.7ED.221E1C|din=03
 test_cases:
 - expected_values:
     CUPRA_BMS_I_DCHG_LIM_DYN: 355
+    CUPRA_HVBAT_DISCHG_I_LIM: 1
   response: 7ED05621E1C0163
 - expected_values:
     CUPRA_BMS_I_DCHG_LIM_DYN: 1531
+    CUPRA_HVBAT_DISCHG_I_LIM: 5
   response: 7ED05621E1C05FB
 - expected_values:
     CUPRA_BMS_I_DCHG_LIM_DYN: 1536
+    CUPRA_HVBAT_DISCHG_I_LIM: 6
   response: 7ED05621E1C0600

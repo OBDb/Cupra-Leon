@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.221009
 test_cases:
 - expected_values:
-    CUPRA_MQB_DQ250_SPD_OUTPUT: 0
+    CUPRA_DQ250_SPD_OUTPUT: 0
   response: '7E9056210090000'
 - expected_values:
-    CUPRA_MQB_DQ250_SPD_OUTPUT: 1180
+    CUPRA_DQ250_SPD_OUTPUT: 1180
   response: 7E9056210099C04
 - expected_values:
-    CUPRA_MQB_DQ250_SPD_OUTPUT: 252
+    CUPRA_DQ250_SPD_OUTPUT: 252
   response: 7E905621009FC00
