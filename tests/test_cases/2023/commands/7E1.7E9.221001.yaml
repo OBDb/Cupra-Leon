@@ -1,29 +1,38 @@
 command_id: 7E1.7E9.221001
 test_cases:
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 330.24
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210018100'
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 360.96
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: 7E9056210018D00
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 363.52
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: 7E9056210018E00
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 366.08
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: 7E9056210018F00
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 368.64
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210019000'
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 371.2
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210019100'
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 373.76
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210019200'
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 376.32
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210019300'
 - expected_values:
-    CUPRA_TIRE_FR_SPD_V2: 255
+    CUPRA_TIRE_FR_SPD_7E1: 378.88
+    CUPRA_TIRE_FR_SPD_V3: 255
   response: '7E9056210019400'

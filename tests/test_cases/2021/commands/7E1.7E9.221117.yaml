@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.221117
 test_cases:
 - expected_values:
-    CUPRA_PQ35_REACHED_MAXIMUM_T: 111
+    CUPRA_REACHED_MAXIMUM_T: 111
   response: 7E9056211176F00
 - expected_values:
-    CUPRA_PQ35_REACHED_MAXIMUM_T: 112
+    CUPRA_REACHED_MAXIMUM_T: 112
   response: '7E9056211177000'

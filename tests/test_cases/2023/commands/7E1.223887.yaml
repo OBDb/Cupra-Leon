@@ -1,5 +1,0 @@
-command_id: 7E1.223887
-test_cases:
-- expected_values:
-    CUPRA_MQB_TCM_ODO_2: 0.2
-  response: '7E90762388702000000'

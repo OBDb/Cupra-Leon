@@ -1,0 +1,37 @@
+command_id: 714.77E.22202F
+test_cases:
+- expected_values:
+    CUPRA_EOT_714: 44
+    CUPRA_EOT_V3: 44
+    CUPRA_PQ35_OIL_T: 44
+  response: 77E0462202F66
+- expected_values:
+    CUPRA_EOT_714: 45
+    CUPRA_EOT_V3: 45
+    CUPRA_PQ35_OIL_T: 45
+  response: 77E0462202F67
+- expected_values:
+    CUPRA_EOT_714: 46
+    CUPRA_EOT_V3: 46
+    CUPRA_PQ35_OIL_T: 46
+  response: 77E0462202F68
+- expected_values:
+    CUPRA_EOT_714: 48
+    CUPRA_EOT_V3: 48
+    CUPRA_PQ35_OIL_T: 48
+  response: 77E0462202F6A
+- expected_values:
+    CUPRA_EOT_714: 49
+    CUPRA_EOT_V3: 49
+    CUPRA_PQ35_OIL_T: 49
+  response: 77E0462202F6B
+- expected_values:
+    CUPRA_EOT_714: 50
+    CUPRA_EOT_V3: 50
+    CUPRA_PQ35_OIL_T: 50
+  response: 77E0462202F6C
+- expected_values:
+    CUPRA_EOT_714: 197
+    CUPRA_EOT_V3: 197
+    CUPRA_PQ35_OIL_T: 197
+  response: 77E0462202FFF

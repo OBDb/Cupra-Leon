@@ -1,11 +1,11 @@
 command_id: 714.77E.22224B|din=03
 test_cases:
 - expected_values:
-    CUPRA_PQ35_OIL_WEAR: 126
+    CUPRA_DASH_OIL_THERMAL_WEAR: 126
   response: 77E0562224B007E
 - expected_values:
-    CUPRA_PQ35_OIL_WEAR: 127
+    CUPRA_DASH_OIL_THERMAL_WEAR: 127
   response: 77E0562224B007F
 - expected_values:
-    CUPRA_PQ35_OIL_WEAR: 165
+    CUPRA_DASH_OIL_THERMAL_WEAR: 165
   response: 77E0562224B00A5

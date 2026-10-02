@@ -1,0 +1,12 @@
+command_id: 7E1.7E9.222104
+test_cases:
+- expected_values:
+    CUPRA_ATF_T: -25
+    CUPRA_ATF_T_DUAL_CLU: 15
+    CUPRA_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: -25
+  response: 7E9056221040F00
+- expected_values:
+    CUPRA_ATF_T: 46
+    CUPRA_ATF_T_DUAL_CLU: 86
+    CUPRA_MQB_TCM_ATF_T_VAR_2_DSG_S_TRONIC: 46
+  response: '7E9056221045600'
