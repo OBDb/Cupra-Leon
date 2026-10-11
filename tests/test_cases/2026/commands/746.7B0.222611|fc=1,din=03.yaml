@@ -1,10 +1,8 @@
 command_id: 746.7B0.222611|fc=1,din=03
 test_cases:
 - expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 42
-    CUPRA_LEG_DEFL_T: 41.958
+    LEON_CLIMATE_LEG_DEFL_T: 42
   response: 7B0046226117E
 - expected_values:
-    CUPRA_CLIMATE_LEG_DEFL_T: 42.33333
-    CUPRA_LEG_DEFL_T: 42.291
+    LEON_CLIMATE_LEG_DEFL_T: 42.33333
   response: 7B0046226117F

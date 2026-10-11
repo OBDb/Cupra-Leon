@@ -1,30 +1,23 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    CUPRA_AAT_CABIN: 17
-    CUPRA_OUTSIDE_T_SYSTEM: -61
+    LEON_OUTSIDE_T_SYSTEM: 17
   response: 7B00462260A86
 - expected_values:
-    CUPRA_AAT_CABIN: 17.5
-    CUPRA_OUTSIDE_T_SYSTEM: -60.5
+    LEON_OUTSIDE_T_SYSTEM: 17.5
   response: 7B00462260A87
 - expected_values:
-    CUPRA_AAT_CABIN: 18
-    CUPRA_OUTSIDE_T_SYSTEM: -60
+    LEON_OUTSIDE_T_SYSTEM: 18
   response: 7B00462260A88
 - expected_values:
-    CUPRA_AAT_CABIN: 19
-    CUPRA_OUTSIDE_T_SYSTEM: -59
+    LEON_OUTSIDE_T_SYSTEM: 19
   response: 7B00462260A8A
 - expected_values:
-    CUPRA_AAT_CABIN: 19.5
-    CUPRA_OUTSIDE_T_SYSTEM: -58.5
+    LEON_OUTSIDE_T_SYSTEM: 19.5
   response: 7B00462260A8B
 - expected_values:
-    CUPRA_AAT_CABIN: 21
-    CUPRA_OUTSIDE_T_SYSTEM: -57
+    LEON_OUTSIDE_T_SYSTEM: 21
   response: 7B00462260A8E
 - expected_values:
-    CUPRA_AAT_CABIN: 22.5
-    CUPRA_OUTSIDE_T_SYSTEM: -55.5
+    LEON_OUTSIDE_T_SYSTEM: 22.5
   response: 7B00462260A91

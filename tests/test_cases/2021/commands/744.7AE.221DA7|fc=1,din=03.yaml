@@ -1,14 +1,11 @@
 command_id: 744.7AE.221DA7|fc=1,din=03
 test_cases:
 - expected_values:
-    CUPRA_CHRGR_V_OUT: 0
-    CUPRA_OBC_HIGH_V_OUTPUT: 0
+    LEON_OBC_HIGH_V_OUTPUT: 0
   response: 7AE05621DA70000
 - expected_values:
-    CUPRA_CHRGR_V_OUT: 1
-    CUPRA_OBC_HIGH_V_OUTPUT: 30.9
+    LEON_OBC_HIGH_V_OUTPUT: 30.9
   response: 7AE05621DA70135
 - expected_values:
-    CUPRA_CHRGR_V_OUT: 1
-    CUPRA_OBC_HIGH_V_OUTPUT: 39
+    LEON_OBC_HIGH_V_OUTPUT: 39
   response: 7AE05621DA70186

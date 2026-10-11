@@ -1,11 +1,11 @@
 command_id: 7E1.7E9.2238EC
 test_cases:
 - expected_values:
-    CUPRA_PQ35_CLUTCH_1_CMD_P: 0
+    LEON_PQ35_CLUTCH_1_CMD_P: 0
   response: 7E9056238EC0000
 - expected_values:
-    CUPRA_PQ35_CLUTCH_1_CMD_P: 23.58
+    LEON_PQ35_CLUTCH_1_CMD_P: 23.58
   response: 7E9056238EC3609
 - expected_values:
-    CUPRA_PQ35_CLUTCH_1_CMD_P: 7.6
+    LEON_PQ35_CLUTCH_1_CMD_P: 7.6
   response: 7E9056238ECF802

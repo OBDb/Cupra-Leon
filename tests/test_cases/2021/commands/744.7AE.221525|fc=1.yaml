@@ -1,26 +1,26 @@
 command_id: 744.7AE.221525|fc=1
 test_cases:
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 1845
+    LEON_OBC_V_PROX_A: 1845
   response: 7AE056215250735
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 1850
+    LEON_OBC_V_PROX_A: 1850
   response: 7AE05621525073A
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 1855
+    LEON_OBC_V_PROX_A: 1855
   response: 7AE05621525073F
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 1860
+    LEON_OBC_V_PROX_A: 1860
   response: 7AE056215250744
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 4101
+    LEON_OBC_V_PROX_A: 4101
   response: 7AE056215251005
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 4106
+    LEON_OBC_V_PROX_A: 4106
   response: 7AE05621525100A
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 4111
+    LEON_OBC_V_PROX_A: 4111
   response: 7AE05621525100F
 - expected_values:
-    CUPRA_OBC_V_PROX_A: 4116
+    LEON_OBC_V_PROX_A: 4116
   response: 7AE056215251014

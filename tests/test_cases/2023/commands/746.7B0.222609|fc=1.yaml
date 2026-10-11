@@ -1,10 +1,8 @@
 command_id: 746.7B0.222609|fc=1
 test_cases:
 - expected_values:
-    CUPRA_AAT_V2: 6
-    CUPRA_PQ35_OUT_T: 56
+    LEON_AAT_746: 6
   response: 7B00462260970
 - expected_values:
-    CUPRA_AAT_V2: 19
-    CUPRA_PQ35_OUT_T: -59
+    LEON_AAT_746: 19
   response: 7B0046226098A
