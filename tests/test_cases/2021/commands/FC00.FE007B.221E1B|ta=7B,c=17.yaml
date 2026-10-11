@@ -1,14 +1,14 @@
 command_id: FC00.FE007B.221E1B|ta=7B,c=17
 test_cases:
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 32.8
+    LEON_HVBAT_I_LIM_CHG: 32.8
   response: 17FE007B05621E1B00A4
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 50.8
+    LEON_HVBAT_I_LIM_CHG: 50.8
   response: 17FE007B05621E1B00FE
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 52.6
+    LEON_HVBAT_I_LIM_CHG: 52.6
   response: 17FE007B05621E1B0107
 - expected_values:
-    CUPRA_HVBAT_I_LIM_CHG: 104.4
+    LEON_HVBAT_I_LIM_CHG: 104.4
   response: 17FE007B05621E1B020A

@@ -1,23 +1,23 @@
 command_id: 7E1.7E9.22381E
 test_cases:
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 1
+    LEON_MQB_TCM_EOP_ACTUAL_I: 1
   response: 7E90562381E0A00
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 2
+    LEON_MQB_TCM_EOP_ACTUAL_I: 2
   response: 7E90562381E1400
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 3
+    LEON_MQB_TCM_EOP_ACTUAL_I: 3
   response: 7E90562381E1E00
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 622
+    LEON_MQB_TCM_EOP_ACTUAL_I: 622
   response: 7E90562381E4C18
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 317
+    LEON_MQB_TCM_EOP_ACTUAL_I: 317
   response: 7E90562381E620C
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 601
+    LEON_MQB_TCM_EOP_ACTUAL_I: 601
   response: 7E90562381E7A17
 - expected_values:
-    CUPRA_MQB_TCM_EOP_ACTUAL_I: 602
+    LEON_MQB_TCM_EOP_ACTUAL_I: 602
   response: 7E90562381E8417

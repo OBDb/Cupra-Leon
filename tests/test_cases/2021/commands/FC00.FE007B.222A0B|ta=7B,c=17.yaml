@@ -1,8 +1,8 @@
 command_id: FC00.FE007B.222A0B|ta=7B,c=17
 test_cases:
 - expected_values:
-    CUPRA_BATTERY_T: 8.5
+    LEON_BATTERY_T: 8.5
   response: 17FE007B04622A0B61
 - expected_values:
-    CUPRA_BATTERY_T: 33
+    LEON_BATTERY_T: 33
   response: 17FE007B04622A0B92

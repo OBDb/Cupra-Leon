@@ -1,10 +1,8 @@
 command_id: 746.7B0.22260A|fc=1
 test_cases:
 - expected_values:
-    CUPRA_AAT_CABIN: -7
-    CUPRA_OUTSIDE_T_SYSTEM: 43
+    LEON_OUTSIDE_T_SYSTEM: -7
   response: 7B00462260A56
 - expected_values:
-    CUPRA_AAT_CABIN: 11
-    CUPRA_OUTSIDE_T_SYSTEM: 61
+    LEON_OUTSIDE_T_SYSTEM: 11
   response: 7B00462260A7A

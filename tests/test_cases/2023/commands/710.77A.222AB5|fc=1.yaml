@@ -1,27 +1,27 @@
 command_id: 710.77A.222AB5|fc=1
 test_cases:
 - expected_values:
-    CUPRA_RANGE_EST_CAN: 0
+    LEON_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB5010C01
     77A210C000007FF0000
 - expected_values:
-    CUPRA_RANGE_EST_CAN: 0
+    LEON_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB5010F01
     77A210F000007FF0000
 - expected_values:
-    CUPRA_RANGE_EST_CAN: 0
+    LEON_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB5011001
     77A2110000000000000
 - expected_values:
-    CUPRA_RANGE_EST_CAN: 0
+    LEON_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB5021202
     77A2112000000000000
 - expected_values:
-    CUPRA_RANGE_EST_CAN: 0
+    LEON_RANGE_EST_CAN: 0
   response: |-
     77A100D622AB502A502
     77A21A5000000000000
