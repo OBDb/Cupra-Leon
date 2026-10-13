@@ -1,4 +1,9 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E0", "type": "engine" },
+    { "hdr": "7E1", "type": "transmission" },
+    { "hdr": "7E5", "type": "battery" }
+  ],
+  "commands": [
 { "hdr": "710", "rax": "77A", "fcm1": true, "cmd": {"22": "15D1"}, "freq": 5, "dbgfilter": { "years": [2022], "from": 2027 },
   "signals": [
     {"id": "LEON_EM_PWR_LIM",            "path": "Engine",  "fmt": {"bix": 8,  "len": 16, "max": 3276750, "mul": 50,              "unit": "watts"         }, "name": "Electric motor power limitation"},
