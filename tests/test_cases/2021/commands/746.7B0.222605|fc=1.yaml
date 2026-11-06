@@ -4,8 +4,8 @@ test_cases:
     LEON_CLIMATE_REFRIG_P: 3.8
   response: 7B00462260513
 - expected_values:
-    LEON_CLIMATE_REFRIG_P: 4.8
-  response: 7B00462260518
+    LEON_CLIMATE_REFRIG_P: 4.6
+  response: 7B00462260517
 - expected_values:
     LEON_CLIMATE_REFRIG_P: 16.2
   response: 7B00462260551

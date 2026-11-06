@@ -4,9 +4,6 @@ test_cases:
     LEON_PQ35_WORKING_HOURS: 3434.22864
   response: 7E9076211100464D824
 - expected_values:
-    LEON_PQ35_WORKING_HOURS: 3484.0804
-  response: '7E90762111008506125'
-- expected_values:
     LEON_PQ35_WORKING_HOURS: 3354.89721
   response: 7E9076211101980FE23
 - expected_values:
@@ -15,6 +12,9 @@ test_cases:
 - expected_values:
     LEON_PQ35_WORKING_HOURS: 2797.53546
   response: 7E9076211101EA9031E
+- expected_values:
+    LEON_PQ35_WORKING_HOURS: 3583.48875
+  response: '7E90762111087587226'
 - expected_values:
     LEON_PQ35_WORKING_HOURS: 3337.60506
   response: 7E9076211108E01CF23

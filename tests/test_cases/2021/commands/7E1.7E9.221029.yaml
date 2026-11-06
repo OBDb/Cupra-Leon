@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221029
+test_cases:
+- expected_values:
+    LEON_CURRENT_N371_P_CTRL_6: 0
+  response: '7E9056210290000'
+- expected_values:
+    LEON_CURRENT_N371_P_CTRL_6: 3226
+  response: 7E9056210297E04
+- expected_values:
+    LEON_CURRENT_N371_P_CTRL_6: 6246.4
+  response: 7E905621029F400

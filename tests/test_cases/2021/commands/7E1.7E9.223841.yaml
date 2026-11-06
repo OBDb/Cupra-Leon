@@ -10,6 +10,9 @@ test_cases:
     LEON_MQB_TCM_ODO: 23422899.2
   response: 7E9076238410DF60D00
 - expected_values:
+    LEON_MQB_TCM_ODO: 339123020.8
+  response: 7E907623841CA221100
+- expected_values:
     LEON_MQB_TCM_ODO: 365894451.2
   response: 7E907623841DA171000
 - expected_values:

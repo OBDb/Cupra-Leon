@@ -16,6 +16,11 @@ test_cases:
     77A100A622AB6006C00
     77A215F000D00AAAAAA
 - expected_values:
+    LEON_RANGE_V2: 231
+  response: |-
+    77A100A622AB600E700
+    77A21C8001F20AAAAAA
+- expected_values:
     LEON_RANGE_V2: 251
   response: |-
     77A100A622AB600FB00
@@ -40,8 +45,3 @@ test_cases:
   response: |-
     77A100A622AB6021D02
     77A2108001500AAAAAA
-- expected_values:
-    LEON_RANGE_V2: 617
-  response: |-
-    77A100A622AB6026902
-    77A213A002F26AAAAAA
