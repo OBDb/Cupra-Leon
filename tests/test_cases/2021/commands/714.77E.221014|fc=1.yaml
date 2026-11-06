@@ -4,8 +4,8 @@ test_cases:
     LEON_AAT: -1
   response: '77E0462101462'
 - expected_values:
-    LEON_AAT: 10
-  response: '77E0462101478'
+    LEON_AAT: 6.5
+  response: '77E0462101471'
 - expected_values:
     LEON_AAT: 40.5
   response: 77E04621014B5
