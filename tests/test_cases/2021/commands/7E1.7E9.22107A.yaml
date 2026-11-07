@@ -1,17 +1,17 @@
 command_id: 7E1.7E9.22107A
 test_cases:
 - expected_values:
-    LEON_ANALYSIS_CLU_2_T_0: 476.28
-  response: 7E90762107A065DBF21
+    LEON_ANALYSIS_CLU_2_T_0: 1269.86
+  response: 7E90762107A05F8C021
+- expected_values:
+    LEON_ANALYSIS_CLU_2_T_0: 1306.2
+  response: 7E90762107A1EFFC021
 - expected_values:
     LEON_ANALYSIS_CLU_2_T_0: 492.26
   response: 7E90762107A2560BE21
 - expected_values:
-    LEON_ANALYSIS_CLU_2_T_0: 49.98
-  response: 7E90762107AC309BF21
+    LEON_ANALYSIS_CLU_2_T_0: 36.8
+  response: 7E90762107A3007C121
 - expected_values:
-    LEON_ANALYSIS_CLU_2_T_0: 1299.28
-  response: 7E90762107AC4FDBE21
-- expected_values:
-    LEON_ANALYSIS_CLU_2_T_0: 1243.32
-  response: 7E90762107AD6F2BE21
+    LEON_ANALYSIS_CLU_2_T_0: 1049.58
+  response: 7E90762107AFFCCBF21

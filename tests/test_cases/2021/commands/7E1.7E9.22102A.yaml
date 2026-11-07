@@ -1,8 +1,8 @@
 command_id: 7E1.7E9.22102A
 test_cases:
 - expected_values:
-    LEON_CLU_CENTER_CENTRAL_T: 30
-  response: 7E90562102A1E00
+    LEON_CLU_CENTER_CENTRAL_T: 17
+  response: 7E90562102A1100
 - expected_values:
-    LEON_CLU_CENTER_CENTRAL_T: 53
-  response: 7E90562102A3500
+    LEON_CLU_CENTER_CENTRAL_T: 62
+  response: 7E90562102A3E00

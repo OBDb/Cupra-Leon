@@ -10,6 +10,9 @@ test_cases:
     LEON_CLU_1_T_TIME_RANGE_0: 1301.82
   response: 7E90762106543FEE220
 - expected_values:
+    LEON_CLU_1_T_TIME_RANGE_0: 365.9
+  response: 7E9076210657747E520
+- expected_values:
     LEON_CLU_1_T_TIME_RANGE_0: 45.52
   response: 7E907621065E408E320
 - expected_values:
