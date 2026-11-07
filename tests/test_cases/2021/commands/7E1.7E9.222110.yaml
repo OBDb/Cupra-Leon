@@ -7,8 +7,8 @@ test_cases:
     LEON_ENG_SPEC_TQ_DURING: 1130
   response: 7E905622110046A
 - expected_values:
-    LEON_ENG_SPEC_TQ_DURING: 55375
-  response: 7E905622110D84F
+    LEON_ENG_SPEC_TQ_DURING: 16657
+  response: '7E9056221104111'
 - expected_values:
     LEON_ENG_SPEC_TQ_DURING: 61530
   response: 7E905622110F05A
