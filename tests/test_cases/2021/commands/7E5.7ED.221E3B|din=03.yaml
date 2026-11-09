@@ -7,5 +7,5 @@ test_cases:
     LEON_HVBAT_V: 383.75
   response: 7ED05621E3B05FF
 - expected_values:
-    LEON_HVBAT_V: 384.25
-  response: 7ED05621E3B0601
+    LEON_HVBAT_V: 384
+  response: 7ED05621E3B0600
