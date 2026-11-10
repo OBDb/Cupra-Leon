@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.221E3B|din=03
 test_cases:
 - expected_values:
-    LEON_HVBAT_V: 317.75
-  response: 7ED05621E3B04F7
+    LEON_HVBAT_V: 316.75
+  response: 7ED05621E3B04F3
 - expected_values:
     LEON_HVBAT_V: 383.75
   response: 7ED05621E3B05FF
