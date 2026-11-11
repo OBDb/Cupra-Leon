@@ -4,11 +4,11 @@ test_cases:
     LEON_PQ35_ODO_3: 106240
   response: 7E90762101A009F0100
 - expected_values:
+    LEON_PQ35_ODO_3: 113248
+  response: 7E90762101A60BA0100
+- expected_values:
     LEON_PQ35_ODO_3: 91300
   response: 7E90762101AA4640100
-- expected_values:
-    LEON_PQ35_ODO_3: 113068
-  response: 7E90762101AACB90100
 - expected_values:
     LEON_PQ35_ODO_3: 107519
   response: 7E90762101AFFA30100
