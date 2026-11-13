@@ -4,5 +4,5 @@ test_cases:
     LEON_SOC: 23.2
   response: 17FE007B0462028C3A
 - expected_values:
-    LEON_SOC: 90
-  response: 17FE007B0462028CE1
+    LEON_SOC: 91.2
+  response: 17FE007B0462028CE4
