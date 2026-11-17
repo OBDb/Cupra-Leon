@@ -2671,7 +2671,7 @@
   "signals": [
     {"id": "LEON_MQB_TCM_CLUTCH_2_T_PROTECTION_OVERHEAT_PROTECTION_1_QTY", "path": "Engine", "fmt": { "len": 16, "blsb": true, "max": 65535, "unit": "scalar" }, "name": "Clutch 2 temperature protection overheat protection 1 quantity"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3887"}, "freq": 30, "dbgfilter": { "to": 2020, "years": [2022], "from": 2024 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3887"}, "freq": 30, "dbgfilter": { "to": 2022, "from": 2024 },
   "signals": [
     {"id": "LEON_MQB_TCM_ODO_2", "path": "Trips", "fmt": { "len": 32, "blsb": true, "max": 429496729.5, "div": 10, "nullmax": 429496729.5, "unit": "kilometers" }, "name": "Odometer #2", "suggestedMetric": "odometer"}
   ]},
