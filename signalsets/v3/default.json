@@ -2625,7 +2625,7 @@
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3841"}, "freq": 30, "dbgfilter": { "to": 2020, "years": [2022], "from": 2025 },
   "signals": [
-    {"id": "LEON_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
+    {"id": "LEON_MQB_TCM_ODO", "path": "Trips", "fmt": { "len": 32, "blsb": true, "max": 429496729.5, "div": 10, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
 { "hdr": "7E1", "rax": "7E9", "cmd": {"22": "3852"}, "freq": 0.25, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
@@ -2960,7 +2960,7 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "cmd": {"22": "51E0"}, "freq": 30, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "LEON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
+    {"id": "LEON_HVBAT_SOH", "path": "Battery", "fmt": { "len": 16, "max": 6524, "min": -1798.574, "mul": 0.127, "add": -1798.574, "nullmax": 6524, "unit": "percent" }, "name": "HV battery health", "suggestedMetric": "stateOfHealth"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "F45B"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
@@ -3000,13 +3000,13 @@
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "LEON_HVBAT_CELL_V_MAX_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.997, "mul": 2441, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, maximum"},
-    {"id": "LEON_HVBAT_CELL_V_MAX_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                             "unit": "scalar" }, "name": "HV battery cell voltage max, ID"}
+    {"id": "LEON_HVBAT_CELL_V_MAX_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.999, "div": 4096, "unit": "volts"  }, "name": "HV battery cell voltage, maximum"},
+    {"id": "LEON_HVBAT_CELL_V_MAX_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,               "unit": "scalar" }, "name": "HV battery cell voltage max, ID"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "LEON_HVBAT_CELL_V_MIN_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.997, "mul": 2441, "div": 10000, "unit": "volts"  }, "name": "HV battery cell voltage, minimum"},
-    {"id": "LEON_HVBAT_CELL_V_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,                             "unit": "scalar" }, "name": "HV battery cell voltage min, ID"}
+    {"id": "LEON_HVBAT_CELL_V_MIN_V2", "path": "Battery", "fmt": {           "len": 16, "max": 15.999, "div": 4096, "unit": "volts"  }, "name": "HV battery cell voltage, minimum"},
+    {"id": "LEON_HVBAT_CELL_V_MIN_ID", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 65535,               "unit": "scalar" }, "name": "HV battery cell voltage min, ID"}
   ]},
 { "hdr": "FC00", "rax": "FE007B", "pri": "17", "tst": "7B", "cmd": {"22": "1E38"}, "freq": 1, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [

@@ -16,5 +16,5 @@ test_cases:
     LEON_HVBAT_SOH: 85.725
   response: 7ED056251E039F5
 - expected_values:
-    LEON_HVBAT_SOH: 6524
+    LEON_HVBAT_SOH: null
   response: 7ED056251E0FFFE
